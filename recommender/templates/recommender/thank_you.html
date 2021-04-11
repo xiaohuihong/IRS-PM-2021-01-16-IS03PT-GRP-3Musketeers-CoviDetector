@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Thank you for your interest!</title>
+  </head>
+  <body>
+  {% csrf_token %}
+    Thanks!
+    Your outcome is {{ form.outcome }}!
+    Click <a href="{% url 'recommender:recommender' %}">here</a> to start a new application.
+  </body>
+</html>

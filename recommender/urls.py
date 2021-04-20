@@ -1,6 +1,7 @@
 from django.urls import path
-
+from django.conf.urls import url
 from recommender.views import RecommenderView, RecommenderThankYouView
+from recommender.views import ChatBotAppView
 
 
 app_name = "recommender"

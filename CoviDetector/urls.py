@@ -18,11 +18,10 @@ from django.urls import path, include, reverse_lazy
 from django.views.generic import RedirectView
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
-
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', RedirectView.as_view(url=reverse_lazy('recommender:recommender'))),
-    path('recommender/', include('recommender.urls', namespace='recommender'))
+    path('recommender/', include('recommender.urls', namespace='recommender')),
 ]
 
 urlpatterns += staticfiles_urlpatterns()

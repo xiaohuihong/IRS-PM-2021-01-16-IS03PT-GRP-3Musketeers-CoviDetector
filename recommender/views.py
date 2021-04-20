@@ -4,7 +4,7 @@ import datetime, pytz
 from django.forms import modelform_factory
 from django.shortcuts import redirect
 from django.urls import reverse
-from django.views.generic import FormView, TemplateView
+from django.views.generic import FormView, TemplateView, View
 from . import constants
 from .forms import BaseApplicationForm
 from .models import UserProfile
@@ -12,11 +12,11 @@ import pickle
 import os
 import numpy as np
 import pandas as pd
-from random import sample
-import matplotlib.pyplot as plt
-from sklearn import tree
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
+
+from chatbot import chatter
+from django.http import JsonResponse
+import json
+import logging
 # Create your views here.
 
 def index(request):
@@ -123,8 +123,67 @@ class RecommenderView(FormView):
         return kwargs
 
 
+
 class RecommenderThankYouView(TemplateView):
     template_name = 'recommender/thank_you.html'
+
+
+class ChatBotAppView(TemplateView):
+    template_name = 'recommender/chatbot.html'
+
+
+class ChatBotApiView(View):
+    """
+    Provide an API endpoint to interact with ChatterBot.
+    """
+    logging.basicConfig(level=logging.INFO)
+
+    print("===================================test==================================")
+
+    cwd = os.getcwd()
+    data_path = os.path.join(cwd + '\\chatbot\\data\\')
+    excel_name = 'COVID_FAQ.xlsx'
+    worksheet_name = 'FAQ'
+    threshold = 0.6
+
+    covid_faq_chatbot = chatter.faq_chatbot_initialize("Covid FAQ Chat Bot", excel_path=data_path + excel_name,
+                                                       worksheet_name=worksheet_name)
+    covid_nlp_chatbot = chatter.nlp_chatbot_initialize("Covid NLP Chat Bot", data_path)
+
+    def post(self, request, *args, **kwargs):
+        """
+        Return a response to the statement in the posted data.
+
+        * The JSON data should contain a 'text' attribute.
+        """
+        input_data = json.loads(request.body.decode('utf-8'))
+
+        if 'text' not in input_data:
+            return JsonResponse({
+                'text': [
+                    'The attribute "text" is required.'
+                ]
+            }, status=400)
+        print(input_data['text'])
+        # response = self.chatterbot.get_response(input_data['text'])
+        response = chatter.get_answer(self.covid_faq_chatbot, self.covid_nlp_chatbot, input_data['text'],
+                                      self.threshold)
+        # response_data = response.serialize()
+
+        return JsonResponse({
+            'text': [
+                response
+            ]
+        }, status=200)
+
+    def get(self, request, *args, **kwargs):
+        """
+        Return data corresponding to the current conversation.
+        """
+        return JsonResponse({
+            'name': self.covid_faq_chatbot.name
+        })
+
 
 if __name__ == "__main__":
     print("utility mod is run directly")

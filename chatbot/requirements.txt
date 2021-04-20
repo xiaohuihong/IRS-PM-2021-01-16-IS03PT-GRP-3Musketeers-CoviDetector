@@ -1,0 +1,12 @@
+# (base) admin-user@admin-mac:~$ conda create --name py36 python=3.6
+# (base) admin-user@admin-mac:~$ conda activate py36
+
+# (py36) admin-user@admin-mac:~$ pip install chatterbot
+# (py36) admin-user@admin-mac:~$ pip install chatterbot_corpus
+# (py36) admin-user@admin-mac:~$ pip install jupyter
+# (py36) admin-user@admin-mac:~$ pip install spacy==2.3.5
+# (py36) admin-user@admin-mac:~$ python -m spacy download en
+
+# (py36) admin-user@admin-mac:~$ jupyter notebook
+
+

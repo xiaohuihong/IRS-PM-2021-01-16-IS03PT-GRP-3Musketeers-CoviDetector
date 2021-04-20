@@ -6,9 +6,10 @@ STAGE_5 = "5"
 STAGE_6 = "6"
 STAGE_7 = "7"
 STAGE_8 = "8"
+STAGE_9 = "9"
 COMPLETE = "Complete"
 
-STAGE_ORDER = [STAGE_1, STAGE_2, STAGE_3, STAGE_4, STAGE_5, STAGE_6, STAGE_7, STAGE_8, COMPLETE]
+STAGE_ORDER = [STAGE_1,STAGE_8, STAGE_9, STAGE_2, STAGE_3, STAGE_4, STAGE_5, STAGE_6, STAGE_7,  COMPLETE]
 
 MALE = "male"
 FEMALE = "female"
@@ -19,3 +20,6 @@ OTH = "test_indication_Other"
 
 POSITIVE = "positive"
 NEGATIVE = "negative"
+
+YES = "YES"
+NO = "NO" 

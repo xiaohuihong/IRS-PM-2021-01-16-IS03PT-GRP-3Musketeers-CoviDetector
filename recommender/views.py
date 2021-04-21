@@ -1,10 +1,11 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.http import HttpResponseRedirect
 import datetime, pytz
 from django.forms import modelform_factory
 from django.shortcuts import redirect
 from django.urls import reverse
-from django.views.generic import FormView, TemplateView, View
+from django.views.generic import FormView, TemplateView
 from . import constants
 from .forms import BaseApplicationForm
 from .models import UserProfile
@@ -12,19 +13,16 @@ import pickle
 import os
 import numpy as np
 import pandas as pd
-
-from chatbot import chatter
-from django.http import JsonResponse
-import json
-import logging
+from random import sample
+import matplotlib.pyplot as plt
+from sklearn import tree
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
 # Create your views here.
 
 def index(request):
     context = {'news_list': "test"}
     return render(request, 'recommender/index.html', context=context)
-
-
-
 
 def get_user_id_from_hash(user_id):
     # Find and return an unexpired, not-yet-completed JobApplication
@@ -49,16 +47,23 @@ def predict_covid_result(fields):
     column_values = ['cough', 'sore_throat', 'test_indication_Abroad', \
                      'shortness_of_breath', 'fever', 'test_indication_Contact with confirmed', \
                      'age_60_and_above_Yes', 'test_indication_Other', 'female', 'head_ache']
-    cough = 1 if fields.cough == True else 0
-    shortness_of_breath = 1 if fields.breath_shortness == True else 0
-    fever = 1 if fields.fever == True else 0
-    sore_throat = 1 if fields.sore_throat == True else 0
-    head_ache = 1 if fields.headache == True else 0
-    age_60_and_above_Yes = 1 if fields.age >= 60 else 0
-    female = 1 if fields.gender == constants.FEMALE else 0
-    test_indication_Contact = 1 if fields.test_indication == constants.CWC else 0
-    test_indication_Abroad = 1 if fields.test_indication == constants.ABD else 0
-    test_indication_Other = 1 if fields.test_indication == constants.OTH else 0
+
+    cough = 1 if fields.Do_you_have_cough == constants.YES else 0
+    shortness_of_breath = 1 if fields.Are_you_experiencing_breath_shortness ==  constants.YES else 0
+    fever = 1 if fields.Are_you_running_a_fever ==  constants.YES else 0
+    sore_throat = 1 if fields.Do_you_have_a_sore_throat ==  constants.YES else 0
+    head_ache = 1 if fields.Do_you_have_a_headache ==  constants.YES else 0
+    age_60_and_above_Yes = 1 if fields.What_is_your_age >= 60 else 0
+    female = 1 if fields.What_is_your_gender == constants.FEMALE else 0
+    test_indication_Contact = 1 if fields.Have_you_been_in_contact_with_someone_with_COVID_19 == constants.YES else 0
+    test_indication_Abroad = 1 if fields.Have_you_been_overseas_in_the_last_14_days == constants.YES else 0
+    if test_indication_Contact == 0 and test_indication_Abroad == 0:
+        test_indication_Other = 1
+    else:
+        test_indication_Other = 0
+    #test_indication_Contact = 1 if fields.test_indication == constants.CWC else 0
+    #test_indication_Abroad = 1 if fields.test_indication == constants.ABD else 0
+    #test_indication_Other = 1 if fields.test_indication == constants.OTH else 0
 
     array = np.array([[cough, sore_throat, test_indication_Abroad, \
                      shortness_of_breath, fever, test_indication_Contact, \
@@ -93,15 +98,20 @@ class RecommenderView(FormView):
         new_stage = constants.STAGE_ORDER[constants.STAGE_ORDER.index(current_stage) + 1]
         form.instance.stage = new_stage
         form.save()  # This will save the underlying instance.
+
         if new_stage == constants.COMPLETE:
             predictor_output = predict_covid_result(form.instance)
             if predictor_output == 0:
                 form.instance.outcome = "negative"
+                return redirect(reverse("recommender:negative"))
             elif predictor_output == 1:
                 form.instance.outcome = "positive"
+                return redirect(reverse("recommender:positive"))
 
             form.save()
-            return redirect(reverse("recommender:thank_you"))
+
+            #return HttpResponse(form.instance.outcome)
+            #return HttpResponseRedirect('/thank_you')
         # else
         return redirect(reverse("recommender:recommender"))
 
@@ -123,67 +133,20 @@ class RecommenderView(FormView):
         return kwargs
 
 
-
 class RecommenderThankYouView(TemplateView):
     template_name = 'recommender/thank_you.html'
 
+class RecommenderWelcomeView(TemplateView):
+    template_name = 'recommender/welcome.html'
 
-class ChatBotAppView(TemplateView):
-    template_name = 'recommender/chatbot.html'
+class RecommenderPositiveView(TemplateView):
+    template_name = 'recommender/positive.html'
 
+class RecommenderNegativeView(TemplateView):
+    template_name = 'recommender/negative.html'
 
-class ChatBotApiView(View):
-    """
-    Provide an API endpoint to interact with ChatterBot.
-    """
-    logging.basicConfig(level=logging.INFO)
-
-    print("===================================test==================================")
-
-    cwd = os.getcwd()
-    data_path = os.path.join(cwd + '\\chatbot\\data\\')
-    excel_name = 'COVID_FAQ.xlsx'
-    worksheet_name = 'FAQ'
-    threshold = 0.6
-
-    covid_faq_chatbot = chatter.faq_chatbot_initialize("Covid FAQ Chat Bot", excel_path=data_path + excel_name,
-                                                       worksheet_name=worksheet_name)
-    covid_nlp_chatbot = chatter.nlp_chatbot_initialize("Covid NLP Chat Bot", data_path)
-
-    def post(self, request, *args, **kwargs):
-        """
-        Return a response to the statement in the posted data.
-
-        * The JSON data should contain a 'text' attribute.
-        """
-        input_data = json.loads(request.body.decode('utf-8'))
-
-        if 'text' not in input_data:
-            return JsonResponse({
-                'text': [
-                    'The attribute "text" is required.'
-                ]
-            }, status=400)
-        print(input_data['text'])
-        # response = self.chatterbot.get_response(input_data['text'])
-        response = chatter.get_answer(self.covid_faq_chatbot, self.covid_nlp_chatbot, input_data['text'],
-                                      self.threshold)
-        # response_data = response.serialize()
-
-        return JsonResponse({
-            'text': [
-                response
-            ]
-        }, status=200)
-
-    def get(self, request, *args, **kwargs):
-        """
-        Return data corresponding to the current conversation.
-        """
-        return JsonResponse({
-            'name': self.covid_faq_chatbot.name
-        })
-
+class RecommenderAboutView(TemplateView):
+    template_name = 'recommender/about.html'
 
 if __name__ == "__main__":
     print("utility mod is run directly")

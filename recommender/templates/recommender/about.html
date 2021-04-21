@@ -11,34 +11,34 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="images/s4.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/static/images/s4.png" type="image/x-icon">
 
-  <title>Thrine</title>
+  <title>CoviDetector</title>
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css" />
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
   <!-- nice select -->
-  <link rel="stylesheet" href="css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/static/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
   <!-- datepicker -->
-  <link rel="stylesheet" href="css/datepicker.css">
+  <link rel="stylesheet" href="/static/css/datepicker.css">
   <!-- Custom styles for this template -->
-  <link href="css/style.css" rel="stylesheet" />
+  <link href="/static/css/style.css" rel="stylesheet" />
   <!-- responsive style -->
-  <link href="css/responsive.css" rel="stylesheet" />
+  <link href="/static/css/responsive.css" rel="stylesheet" />
 </head>
 
-<body class="sub_page">
+<body>
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="{% url 'recommender:welcome' %}">
             <h3>
-              Thrine
+              CoviDetector
             </h3>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,53 +48,82 @@
           <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
             <ul class="navbar-nav  ml-auto">
               <li class="nav-item ">
-                <a class="nav-link" href="index.html">Home </a>
+                <a class="nav-link" href="{% url 'recommender:welcome' %}">Home </span></a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="about.html "> About <span class="sr-only">(current)</span> </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="service.html"> Services </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="appointment.html"> Appointment </a>
+                <a class="nav-link" href="{% url 'recommender:about' %}"> About <span class="sr-only">(current)</a>
               </li>
             </ul>
-            <form class="form-inline ">
-              <button class="btn nav_search-btn" type="submit">
-                <i class="fa fa-search" aria-hidden="true"></i>
-              </button>
-            </form>
           </div>
         </nav>
       </div>
     </header>
     <!-- end header section -->
-  </div>
-
   <!-- about section -->
   <section class="about_section layout_padding">
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
           <span class="design_dot"></span>
-          About Our Hospital
+          About Our System
         </h2>
       </div>
       <div class="col-md-7 mx-auto px-0">
         <div class="img-box b2">
-          <img src="images/about-img.png" alt="" />
+          <img src="/static/images/about.png" alt="" />
         </div>
       </div>
       <div class="col-md-9 mx-auto px-0">
         <div class="detail-box">
           <p>
-            Esse sed doloribus error ad laborum dolorem nobis? Cum, culpa? Distinctio natus excepturi fugit eveniet quasi animi ab obcaecati laudantium sit, ratione recusandae accusamus, voluptatum iste placeat. Esse, eos cumque.
-            Culpa nesciunt quia qui possimus eveniet dolore a debitis consectetur quod. Eligendi recusandae placeat soluta
+            This tool is to help screen vaccinated members of the public before they attend various events in Singapore. No personal data is stored by this tool. This tool can be re-deployed to cater to various events. We use a decision tree model approach to establish the health of the participants. This model was trained with over 1 million tagged records.
           </p>
-          <a href="">
-            Read More
-          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="about_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          <span class="design_dot"></span>
+          The Technology
+        </h2>
+      </div>
+      <div class="col-md-7 mx-auto px-0">
+        <div class="img-box b2">
+          <img src="/static/images/technology.png" alt="" />
+        </div>
+      </div>
+      <div class="col-md-9 mx-auto px-0">
+        <div class="detail-box">
+          <p>
+            This tool is built on python and leverages on the Django framework. It incooperates sqlite to maitain and organise the data along with CSS to standardize the design of the site.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <section class="about_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          <span class="design_dot"></span>
+          The Developers
+        </h2>
+      </div>
+      <div class="col-md-7 mx-auto px-0">
+        <div class="img-box b2">
+          <img src="/static/images/developer.png" alt="" />
+        </div>
+      </div>
+      <div class="col-md-9 mx-auto px-0">
+        <div class="detail-box">
+          <p>
+            This project is develped by Xiao Hui, Anita and Sanjeven
+          </p>
         </div>
       </div>
     </div>
@@ -128,19 +157,13 @@
               <li class="nav-item">
                 <a class="nav-link" href="about.html"> About </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="service.html"> Services </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="appointment.html"> Appointment </a>
-              </li>
             </ul>
           </div>
         </div>
         <div class="col-md-3">
           <div class="info_course">
             <h5>
-              Thrine Hospital
+              Event Covid-19 screener
             </h5>
             <p>
               There are many variations of passages of Lorem Ipsum available,
@@ -153,25 +176,19 @@
         <div class="col-md-5 offset-md-1">
           <div class="info_news">
             <h5>
-              FOR ANY QUERY, PLEASE WRITE TO US
+              Contact
             </h5>
             <div class="info_contact">
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i> Location
               </a>
               <a href="">
-                <i class="fa fa-envelope" aria-hidden="true"></i> demo@gmail.com
+                <i class="fa fa-envelope" aria-hidden="true"></i> covideventscreener@gmail.com
               </a>
               <a href="">
-                <i class="fa fa-phone" aria-hidden="true"></i> Call : +01 1234567890
+                <i class="fa fa-phone" aria-hidden="true"></i> Call : +65 6540 5336
               </a>
             </div>
-            <form action="">
-              <input type="text" placeholder="Enter Your email" />
-              <button>
-                Subscribe
-              </button>
-            </form>
           </div>
         </div>
       </div>
@@ -183,23 +200,23 @@
   <!-- footer section -->
   <footer class="container-fluid footer_section">
     <div class="container">
-      <p>Copyright &copy; 2020.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+      <p>Copyright &copy; 2021. Covid Event screener All rights reserved.</p>
     </div>
   </footer>
   <!-- footer section -->
 
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
+  <script src="/static/js/jquery-3.4.1.min.js"></script>
+  <script src="/static/js/bootstrap.js"></script>
+  <script src="/static/js/owl.carousel.min.js"></script>
   <!-- nice select -->
-  <script src="js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
+  <script src="/static/js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
   <!-- datepicker -->
-  <script src="js/bootstrap-datepicker.js"></script>
+  <script src="/static/js/bootstrap-datepicker.js"></script>
   <!-- custom js -->
-  <script src="js/custom.js"></script>
+  <script src="/static/js/custom.js"></script>
   <!-- Google Map -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
-  </script>
+  <!---<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+  </script>--->
   <!-- End Google Map -->
 </body>
 

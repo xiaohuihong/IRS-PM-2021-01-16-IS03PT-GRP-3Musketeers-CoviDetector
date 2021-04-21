@@ -13,10 +13,10 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="/static/images/s4.png" type="image/x-icon">
 
-  <title>Thrine</title>
+  <title>CoviDetector</title>
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/bootstrap_welcome.css" />
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
@@ -36,7 +36,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="{% url 'recommender:welcome' %}">
             <h3>
               CoviDetector
             </h3>
@@ -48,17 +48,12 @@
           <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
             <ul class="navbar-nav  ml-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{% url 'recommender:welcome' %}">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About </a>
+                <a class="nav-link" href="{% url 'recommender:about' %}"> About </a>
               </li>
             </ul>
-            <form class="form-inline ">
-              <button class="btn nav_search-btn" type="submit">
-                <i class="fa fa-search" aria-hidden="true"></i>
-              </button>
-            </form>
           </div>
         </nav>
       </div>
@@ -83,6 +78,7 @@
                         </div>
                         <div class="btn-box">
                           <button type="submit" value="continue" class="btn ">Continue</button>
+                      </form>
                         </div>
                       </form>
                   </div>
@@ -93,7 +89,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="/static/images/slider-img.png" alt="">
+                    <img src="/static/images/questionnaire.png" alt="">
                   </div>
                 </div>
               </div>
@@ -109,33 +105,6 @@
 
 
   <!-- end book section -->
-
-  <!-- about section -->
-  <section class="about_section layout_padding">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2>
-          <span class="design_dot"></span>
-          About Our System
-        </h2>
-      </div>
-      <div class="col-md-7 mx-auto px-0">
-        <div class="img-box b2">
-          <img src="/static/images/about-img.png" alt="" />
-        </div>
-      </div>
-      <div class="col-md-9 mx-auto px-0">
-        <div class="detail-box">
-          <p>
-            This checker helps people living in Singapore decide on what their next steps should be, based on the symptoms being experienced.
-            This checker records participants' responses but does not identify you.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- end about section -->
 
   <!-- map section -->
 

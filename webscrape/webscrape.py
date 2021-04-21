@@ -1,13 +1,17 @@
 from moh import MOH
 import openpyxl
 import pandas
+import os 
+
 
 URL = 'https://www.moh.gov.sg/covid-19'
 moh_event = MOH(URL)
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+os.chdir(dir_path)
 
-# write structure data to excel
-wb = openpyxl.load_workbook("COVID_FAQ.xlsx")
+ write structure data to excel
+wb = openpyxl.load_workbook("../chatbot/data/COVID_FAQ.xlsx")
 sheet = wb.worksheets[0]
 row_count = sheet.max_row
 data = moh_event.get_data(row_count)
@@ -20,7 +24,8 @@ data.to_excel(writer, "FAQ", startrow = row_count, header= False, index = False)
 
 writer.save()
 
+
 # write non structure data to text
-f = open("data.txt", "a")
+f = open("../chatbot/data/data.txt", "a")
 f.write(moh_event.get_latest_article())
 f.close()

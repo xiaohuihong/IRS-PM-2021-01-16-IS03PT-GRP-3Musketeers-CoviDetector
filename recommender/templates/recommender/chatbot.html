@@ -1,18 +1,76 @@
 <!doctype html>
 <html>
-  <head>
-    <title>Django ChatterBot Example</title>
+  <!--<head>
+    <title>FAQ</title>
     <link rel="stylesheet" href="/static/css/bootstrap.css"/>
     <link rel="stylesheet" href= "/static/css/custom.css"/>
-  </head>
-  <body>
+  </head>-->
 
-    <div class="container">
+    <head>
+        <!-- Basic -->
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <!-- Mobile Metas -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!-- Site Metas -->
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <link rel="shortcut icon" href="/static/images/s4.png" type="image/x-icon">
+
+        <title>CoviDetector</title>
+
+        <!-- bootstrap core css -->
+        <link rel="stylesheet" type="text/css" href="/static/css/bootstrap_welcome.css" />
+
+        <!-- fonts style -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
+        <!-- nice select -->
+        <link rel="stylesheet" href="/static/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+        <!-- datepicker -->
+        <link rel="stylesheet" href="/static/css/datepicker.css">
+        <!-- Custom styles for this template -->
+        <link href="/static/css/style.css" rel="stylesheet" />
+        <link href="/static/css/style_bot.css" rel="stylesheet" />
+        <!-- responsive style -->
+        <link href="/static/css/responsive.css" rel="stylesheet" />
+        <link rel="stylesheet" href= "/static/css/custom.css"/>
+    </head> 
+  <body>
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="{% url 'recommender:welcome' %}">
+            <h3>
+              CoviDetector
+            </h3>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
+            <ul class="navbar-nav  ml-auto">
+              <li class="nav-item ">
+                <a class="nav-link" href="{% url 'recommender:welcome' %}">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="{% url 'recommender:about' %}"> About </a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="{% url 'recommender:chatbot' %}"> FAQ Bot </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!--<div class="container">
 
       <div class="jumbotron mt-1">
-        <h1 class="jumbotron-heading text-xs-center">Django ChatterBot Example</h1>
+        <h1 class="jumbotron-heading text-xs-center">FAQ Chatbot</h1>
         <p class="lead text-xs-center">
-          This is a web app that allows you to talk to ChatterBot.
+          Ask away!
         </p>
 
         <hr class="my-2">
@@ -34,7 +92,52 @@
 
       </div>
 
-    </div>
+    </div>-->
+    <section class="msger">
+        <header class="msger-header">
+        <div class="msger-header-title">
+            <i class="fas"></i> FAQ Chatbot <i class="fas"></i>
+        </div>
+        </header>
+
+    <main class="msger-chat">
+      <!--<div class="msg left-msg">
+        <div class="msg-img" style="background-image: url(https://image.flaticon.com/icons/svg/327/327779.svg)"></div>-->
+
+        <!--<div class="msg-bubble ">
+          <div class="msg-info">
+            <div class="msg-info-name">CoronaBot</div>
+            <div class="msg-info-time">12:45</div>
+          </div>
+          <div class="msg-text">
+            Hi, welcome to CoronaBot! Go ahead and send me a message. 😄
+          </div>
+
+        </div>-->
+
+        <div class="msg-text js-chat-log">
+          </div>
+            <!--<ul class=" msg-text js-chat-log"><!--list-group chat-log
+            </ul>-->
+
+      <!--</div>-->
+
+    </main>
+
+      <!--</div>-->
+    </main>      
+      <input type="text" class="form-control js-text" id="textInput" placeholder="Enter your message...">
+      <button type="submit" class="btn btn-primary msger-send-btn js-say">Send</button>
+            <!--<div class="input-group input-group-lg mt-1">
+              <input type="text" class="form-control js-text" placeholder="Type something to begin..."/>
+              <span class="input-group-btn">
+                <button class="btn btn-primary js-say">Submit</button>
+              </span>
+            </div>-->
+        
+    </section>
+
+
 
     <script src="/static/js/jquery.js"></script>
     <script src="/static/js/js.cookie.js"></script>
@@ -56,15 +159,54 @@
         }
       });
 
-      var $chatlog = $('.js-chat-log');
+      //var $chatlog = $('.js-chat-log');
+      const $chatlog = $('.js-chat-log');
       var $input = $('.js-text');
       var $sayButton = $('.js-say');
+    
 
       function createRow(text) {
         var $row = $('<li class="list-group-item"></li>');
 
         $row.text(text);
         $chatlog.append($row);
+
+      }
+
+      function createuser(text){
+          
+          const msgHTML = `<div class="msg left-msg">
+            <div class="msg-bubble">
+                <div class="msg-info">
+                <div class="msg-info-name">User</div>
+                <div class="msg-info-time">12:45</div>
+                </div>
+                <div class="msg-text">${text}</div>
+            </div>
+            </div>`
+
+
+          console.log(msgHTML)
+          $chatlog.append(msgHTML)
+
+      }
+
+        function createbot(text){
+          
+            const msgHTML = `<div class="msg right-msg">
+            <div class="msg-bubble">
+                <div class="msg-info">
+                <div class="msg-info-name">CoronaBot</div>
+                <div class="msg-info-time">12:45</div>
+                </div>
+                <div class="msg-text">${text}</div>
+            </div>
+            </div>`
+
+
+          console.log(msgHTML)
+          $chatlog.append(msgHTML)
+
       }
 
       function submitInput() {
@@ -73,7 +215,8 @@
         }
 
         // Display the user's input on the web page
-        createRow(inputData.text);
+        //createRow(inputData.text);
+        createuser(inputData.text);
 
         var $submit = $.ajax({
           type: 'POST',
@@ -83,7 +226,10 @@
         });
 
         $submit.done(function(statement) {
-            createRow(statement.text);
+            //createRow(statement.text);
+            //createentry(statement.text)
+            createbot(statement.text);
+
 
             // Clear the input field
             $input.val('');

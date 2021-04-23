@@ -205,9 +205,10 @@
 
             // Clear the input field
             $input.val('');
+            $(".msger-chat").stop().animate({ scrollTop: $(".msger-chat")[0].scrollHeight}, 1000);
 
             // Scroll to the bottom of the chat interface
-            $chatlog[0].scrollTop = $chatlog[0].scrollHeight;
+            //$chatlog[0].scrollTop = $chatlog[0].scrollHeight;
         });
 
         $submit.fail(function() {

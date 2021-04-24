@@ -17,8 +17,9 @@ from django.contrib import admin
 from django.urls import path, include, reverse_lazy
 from django.views.generic import RedirectView
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from django.conf.urls import url
 
-from recommender.views import RecommenderView, RecommenderThankYouView, RecommenderWelcomeView,RecommenderPositiveView,RecommenderNegativeView, RecommenderAboutView
+from recommender.views import RecommenderView, RecommenderThankYouView, RecommenderWelcomeView,RecommenderPositiveView,RecommenderNegativeView, RecommenderAboutView, ChatBotAppView, ChatBotApiView
 
 
 urlpatterns = [
@@ -29,6 +30,8 @@ urlpatterns = [
     path('positive/', RecommenderPositiveView.as_view(), name="positive"),
     path('negative/', RecommenderNegativeView.as_view(), name="negative"),
     path('about/', RecommenderAboutView.as_view(), name="about"),
+    path('chatbot/', ChatBotAppView.as_view(), name="chatbot"),
+    url(r'^api/chatterbot/', ChatBotApiView.as_view(), name='chatterbot'),
     path('recommender/', include('recommender.urls', namespace='recommender'))
 ]
 

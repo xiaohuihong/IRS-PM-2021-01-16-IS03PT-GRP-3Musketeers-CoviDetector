@@ -1,0 +1,240 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Basic -->
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <!-- Mobile Metas -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!-- Site Metas -->
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <link rel="shortcut icon" href="/static/images/s4.png" type="image/x-icon">
+
+        <title>CoviDetector</title>
+
+        <!-- bootstrap core css -->
+        <link rel="stylesheet" type="text/css" href="/static/css/bootstrap_welcome.css" />
+
+        <!-- fonts style -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
+        <!-- nice select -->
+        <link rel="stylesheet" href="/static/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+        <!-- datepicker -->
+        <link rel="stylesheet" href="/static/css/datepicker.css">
+        <!-- Custom styles for this template -->
+        <link href="/static/css/style_bot_2.css" rel="stylesheet" />
+        <link href="/static/css/style.css" rel="stylesheet" />
+        <!-- responsive style -->
+        <link href="/static/css/responsive.css" rel="stylesheet" />
+        <link rel="stylesheet" href= "/static/css/custom.css"/>
+        <style>
+        .indent-1 {display: flex;}
+        </style>
+    </head> 
+  <body>
+    <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="{% url 'recommender:welcome' %}">
+            <h3>
+              CoviDetector
+            </h3>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
+            <ul class="navbar-nav  ml-auto">
+              <li class="nav-item ">
+                <a class="nav-link" href="{% url 'recommender:welcome' %}">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="{% url 'recommender:chatbot' %}"> FAQ bot </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{% url 'recommender:about' %}"> About </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <section >
+      <section class="about_section layout_padding">
+          <div class="container">
+            <div class="heading_container heading_center">
+              <h2>
+                <span class="design_dot"></span>
+                FAQ chatbot
+              </h2>
+            </div>
+            <div class="col-md-7 mx-auto px-0">
+              <div class="chat_img">
+                <img src="/static/images/chatbot_text.png" alt="" title= "https://www.vecteezy.com/free-vector/vector" />
+              </div>
+            </div>
+            <div class="col-md-9 mx-auto px-0">
+            </div>
+          </div>
+        </section>
+    <section class="msger">
+        <h1 class="msger-header">
+        <div class="msger-header-title">
+            <i class="fas"></i> FAQ Chatbot <i class="fas"></i>
+        </div>
+        </h1>
+
+    <main class="msger-chat">
+          <div class="msg left-msg">
+        <div class="msg-img" style="background-image: url(/static/images/chatbot_image.png)"></div>
+
+        <div class="msg-bubble">
+          <div class="msg-info">
+            <div class="msg-info-name">FAQ Bot</div>
+            <div class="msg-info-time " id = "time"></div>
+          </div>
+
+          <div class="msg-text">
+            Hi, welcome to our FAQ bot! Go ahead and ask me anything regarding Covid-19 or the event!
+          </div>
+        </div>
+      </div>
+        <div class="msg-text js-chat-log">
+          </div>
+    </main>      
+    <div class="msger-inputarea">
+      <input type="text" class="form-control js-text" id="textInput" placeholder="Enter your message...">
+      <button type="submit" class="btn btn-primary msger-send-btn js-say" >Send</button>   
+    </div>
+    </section>
+    </section>
+
+
+    <script src="/static/js/jquery.js"></script>
+    <script src="/static/js/js.cookie.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
+    <script>
+      var chatterbotUrl = '{% url "chatterbot" %}';
+      var csrftoken = Cookies.get('csrftoken');
+
+      function csrfSafeMethod(method) {
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+      }
+
+      $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+          if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+          }
+        }
+      });
+
+      const $chatlog = $('.js-chat-log');
+      var $input = $('.js-text');
+      var $sayButton = $('.js-say');
+
+      const date3 = new Date();
+      const h1 = "0" + date3.getHours();
+      const m1 = "0" + date3.getMinutes();
+      var date4 =h1.slice(-2)+':'+m1.slice(-2);
+
+      document.getElementById("time").innerHTML = date4;
+
+      function createRow(text) {
+        var $row = $('<li class="list-group-item"></li>');
+
+        $row.text(text);
+        $chatlog.append($row);
+
+      }
+
+      function createuser(text){
+          
+          const date1 = new Date();
+          const h = "0" + date1.getHours();
+          const m = "0" + date1.getMinutes();
+          const date2 =h.slice(-2)+':'+m.slice(-2);
+          const msgHTML = `<div class="msg right-msg">
+          <div class="msg-img" style="background-image: url(/static/images/chatbotuser.svg)"></div>
+            <div class="msg-bubble">
+                <div class="msg-info">
+                <div class="msg-info-name">You</div>
+                <div class="msg-info-time">${date2}</div>
+                </div>
+                <div class="msg-text">${text}</div>
+            </div>
+            </div>`
+
+
+          console.log(msgHTML)
+          $chatlog.append(msgHTML)
+
+      }
+
+        function createbot(text){
+
+            const date1 = new Date();
+            const h = "0" + date1.getHours();
+            const m = "0" + date1.getMinutes();
+            const date2 =h.slice(-2)+':'+m.slice(-2);
+            const msgHTML = `<div class="msg left-msg">
+            <div class="msg-img" style="background-image: url(/static/images/chatbot_image.png)"></div>
+            <div class="msg-bubble">
+                <div class="msg-info">
+                <div class="msg-info-name">FAQ bot</div>
+                <div class="msg-info-time">${date2}</div>
+                </div>
+                <div class="msg-text">${text}</div>
+            </div>
+            </div>`
+
+
+          console.log(msgHTML)
+          $chatlog.append(msgHTML)
+
+      }
+
+      function submitInput() {
+        var inputData = {
+          'text': $input.val()
+        }
+
+        createuser(inputData.text);
+
+        var $submit = $.ajax({
+          type: 'POST',
+          url: chatterbotUrl,
+          data: JSON.stringify(inputData),
+          contentType: 'application/json'
+        });
+
+        $submit.done(function(statement) {
+            createbot(statement.text);
+
+            $input.val('');
+            $(".msger-chat").stop().animate({ scrollTop: $(".msger-chat")[0].scrollHeight}, 1000);
+
+        });
+
+        $submit.fail(function() {
+          // TODO: Handle errors
+        });
+      }
+
+      $sayButton.click(function() {
+        submitInput();
+      });
+
+      $input.keydown(function(event) {
+        if (event.keyCode == 13) {
+          submitInput();
+        }
+      });
+    </script>
+  </body>
+</html>

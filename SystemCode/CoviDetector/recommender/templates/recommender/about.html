@@ -50,6 +50,9 @@
               <li class="nav-item ">
                 <a class="nav-link" href="{% url 'recommender:welcome' %}">Home </span></a>
               </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="{% url 'recommender:chatbot' %}"> FAQ Bot </a>
+              </li>
               <li class="nav-item active">
                 <a class="nav-link" href="{% url 'recommender:about' %}"> About <span class="sr-only">(current)</a>
               </li>
@@ -70,7 +73,7 @@
       </div>
       <div class="col-md-7 mx-auto px-0">
         <div class="img-box b2">
-          <img src="/static/images/about.png" alt="" />
+          <img src="/static/images/about.png" alt="" title="https://www.vecteezy.com/free-vector/web" />
         </div>
       </div>
       <div class="col-md-9 mx-auto px-0">
@@ -93,13 +96,13 @@
       </div>
       <div class="col-md-7 mx-auto px-0">
         <div class="img-box b2">
-          <img src="/static/images/technology.png" alt="" />
+          <img src="/static/images/technology.png" alt="" title="https://www.vecteezy.com/free-vector/vector"/>
         </div>
       </div>
       <div class="col-md-9 mx-auto px-0">
         <div class="detail-box">
           <p>
-            This tool is built on python and leverages on the Django framework. It incooperates sqlite to maitain and organise the data along with CSS to standardize the design of the site.
+            This tool is built on python and leverages on the Django framework. It incooperates sqlite to maitain and organise the data along with CSS to standardize the design of the site. Our chatbot uses webscrapping to mine data to answer users queries appropriately.
           </p>
         </div>
       </div>
@@ -116,13 +119,13 @@
       </div>
       <div class="col-md-7 mx-auto px-0">
         <div class="img-box b2">
-          <img src="/static/images/developer.png" alt="" />
+          <img src="/static/images/developer.png" alt="" title="https://www.vecteezy.com/free-vector/developer"/>
         </div>
       </div>
       <div class="col-md-9 mx-auto px-0">
         <div class="detail-box">
           <p>
-            This project is develped by Xiao Hui, Anita and Sanjeven
+            This project is develped by Xiao Hui, Anita and Sanjeven for NUS-ISS Graduate Certificate in Intelligent Reasoning Systems.
           </p>
         </div>
       </div>
@@ -152,10 +155,10 @@
             </h5>
             <ul class="navbar-nav  ">
               <li class="nav-item ">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href={% url 'recommender:welcome' %}>Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About </a>
+                <a class="nav-link" href={% url 'recommender:chatbot' %}> FAQ Bot </a>
               </li>
             </ul>
           </div>
@@ -166,9 +169,7 @@
               Event Covid-19 screener
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humou
+This tool is to help screen vaccinated members of the public before they attend various events in Singapore. No personal data is stored by this tool.
             </p>
           </div>
         </div>
@@ -179,9 +180,6 @@
               Contact
             </h5>
             <div class="info_contact">
-              <a href="">
-                <i class="fa fa-map-marker" aria-hidden="true"></i> Location
-              </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i> covideventscreener@gmail.com
               </a>
@@ -215,8 +213,6 @@
   <!-- custom js -->
   <script src="/static/js/custom.js"></script>
   <!-- Google Map -->
-  <!---<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
-  </script>--->
   <!-- End Google Map -->
 </body>
 

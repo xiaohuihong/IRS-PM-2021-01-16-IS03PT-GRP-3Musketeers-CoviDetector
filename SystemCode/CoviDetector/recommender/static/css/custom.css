@@ -1,9 +1,9 @@
 /* Alternate the background color of the output rows */
 .list-group-item:nth-child(even) {
-    background-color: #bdf1ac;
+    background-color: #DCDCDC;
 }
 
 .chat-log {
-    max-height:200px;
-    overflow-y:scroll;
+    /*max-height:1000px;*/
+    overflow-y:auto;
 }

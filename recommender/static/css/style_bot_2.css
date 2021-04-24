@@ -28,7 +28,8 @@ html {
   /*margin: 25px 10px;*/
   margin: auto;
   /*height: calc(100% - 50px);*/
-  height: 500px;
+  height: 700px;
+  min-height: 700px;
   border: var(--border);
   border-radius: 5px;
   background: var(--msger-bg);
@@ -142,5 +143,22 @@ html {
 
 .msger-chat {
   background-color: #fcfcfe;
-  background-image: url("/static/images/chat_back_2.jpg");
+  background-image: url("/static/images/chat_back_3.jpg");
+}
+
+.chat_img {
+  width: 400;
+  height: 400;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+/* This will style any <img> element in .parent div */
+.chat_img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }

@@ -1,11 +1,5 @@
 <!doctype html>
 <html>
-  <!--<head>
-    <title>FAQ</title>
-    <link rel="stylesheet" href="/static/css/bootstrap.css"/>
-    <link rel="stylesheet" href= "/static/css/custom.css"/>
-  </head>-->
-
     <head>
         <!-- Basic -->
         <meta charset="utf-8" />
@@ -35,6 +29,9 @@
         <!-- responsive style -->
         <link href="/static/css/responsive.css" rel="stylesheet" />
         <link rel="stylesheet" href= "/static/css/custom.css"/>
+        <style>
+        .indent-1 {display: flex;}
+        </style>
     </head> 
   <body>
     <div class="hero_area">
@@ -67,7 +64,24 @@
         </nav>
       </div>
     </header>
-
+    <section >
+      <section class="about_section layout_padding">
+          <div class="container">
+            <div class="heading_container heading_center">
+              <h2>
+                <span class="design_dot"></span>
+                FAQ chatbot
+              </h2>
+            </div>
+            <div class="col-md-7 mx-auto px-0">
+              <div class="chat_img">
+                <img src="/static/images/chatbot_text.png" alt="" title= "https://www.vecteezy.com/free-vector/vector" />
+              </div>
+            </div>
+            <div class="col-md-9 mx-auto px-0">
+            </div>
+          </div>
+        </section>
     <section class="msger">
         <h1 class="msger-header">
         <div class="msger-header-title">
@@ -77,12 +91,12 @@
 
     <main class="msger-chat">
           <div class="msg left-msg">
-        <div class="msg-img" style="background-image: url(/static/images/chatbotrobot.svg)"></div>
+        <div class="msg-img" style="background-image: url(/static/images/chatbot_image.png)"></div>
 
         <div class="msg-bubble">
           <div class="msg-info">
             <div class="msg-info-name">FAQ Bot</div>
-            <div class="msg-info-time">12:45</div>
+            <div class="msg-info-time " id = "time"></div>
           </div>
 
           <div class="msg-text">
@@ -95,10 +109,10 @@
     </main>      
     <div class="msger-inputarea">
       <input type="text" class="form-control js-text" id="textInput" placeholder="Enter your message...">
-      <button type="submit" class="btn btn-primary msger-send-btn js-say">Send</button>   
+      <button type="submit" class="btn btn-primary msger-send-btn js-say" >Send</button>   
     </div>
     </section>
-
+    </section>
 
 
     <script src="/static/js/jquery.js"></script>
@@ -109,7 +123,6 @@
       var csrftoken = Cookies.get('csrftoken');
 
       function csrfSafeMethod(method) {
-        // these HTTP methods do not require CSRF protection
         return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
       }
 
@@ -121,11 +134,16 @@
         }
       });
 
-      //var $chatlog = $('.js-chat-log');
       const $chatlog = $('.js-chat-log');
       var $input = $('.js-text');
       var $sayButton = $('.js-say');
-    
+
+      const date3 = new Date();
+      const h1 = "0" + date3.getHours();
+      const m1 = "0" + date3.getMinutes();
+      var date4 =h1.slice(-2)+':'+m1.slice(-2);
+
+      document.getElementById("time").innerHTML = date4;
 
       function createRow(text) {
         var $row = $('<li class="list-group-item"></li>');
@@ -165,7 +183,7 @@
             const m = "0" + date1.getMinutes();
             const date2 =h.slice(-2)+':'+m.slice(-2);
             const msgHTML = `<div class="msg left-msg">
-            <div class="msg-img" style="background-image: url(/static/images/chatbotrobot.svg)"></div>
+            <div class="msg-img" style="background-image: url(/static/images/chatbot_image.png)"></div>
             <div class="msg-bubble">
                 <div class="msg-info">
                 <div class="msg-info-name">FAQ bot</div>
@@ -186,8 +204,6 @@
           'text': $input.val()
         }
 
-        // Display the user's input on the web page
-        //createRow(inputData.text);
         createuser(inputData.text);
 
         var $submit = $.ajax({
@@ -198,17 +214,11 @@
         });
 
         $submit.done(function(statement) {
-            //createRow(statement.text);
-            //createentry(statement.text)
             createbot(statement.text);
 
-
-            // Clear the input field
             $input.val('');
             $(".msger-chat").stop().animate({ scrollTop: $(".msger-chat")[0].scrollHeight}, 1000);
 
-            // Scroll to the bottom of the chat interface
-            //$chatlog[0].scrollTop = $chatlog[0].scrollHeight;
         });
 
         $submit.fail(function() {
@@ -221,7 +231,6 @@
       });
 
       $input.keydown(function(event) {
-        // Submit the input when the enter button is pressed
         if (event.keyCode == 13) {
           submitInput();
         }

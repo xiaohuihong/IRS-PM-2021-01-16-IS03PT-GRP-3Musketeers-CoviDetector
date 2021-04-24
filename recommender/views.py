@@ -66,9 +66,6 @@ def predict_covid_result(fields):
         test_indication_Other = 1
     else:
         test_indication_Other = 0
-    #test_indication_Contact = 1 if fields.test_indication == constants.CWC else 0
-    #test_indication_Abroad = 1 if fields.test_indication == constants.ABD else 0
-    #test_indication_Other = 1 if fields.test_indication == constants.OTH else 0
 
     array = np.array([[cough, sore_throat, test_indication_Abroad, \
                      shortness_of_breath, fever, test_indication_Contact, \
@@ -114,25 +111,18 @@ class RecommenderView(FormView):
                 return redirect(reverse("recommender:positive"))
 
             form.save()
-
-            #return HttpResponse(form.instance.outcome)
-            #return HttpResponseRedirect('/thank_you')
-        # else
         return redirect(reverse("recommender:recommender"))
 
     def get_form_class(self):
-        # If we found a job application that matches the session hash, look at
-        # its "stage" attribute to decide which stage of the application we're
-        # on. Otherwise assume we're on stage 1.
+
         stage = self.user_id.stage if self.user_id else constants.STAGE_1
-        # Get the form fields appropriate to that stage.
+
         fields = UserProfile.get_fields_by_stage(stage)
-        # Use those fields to dynamically create a form with "modelform_factory"
+
         return modelform_factory(UserProfile, BaseApplicationForm, fields)
 
     def get_form_kwargs(self):
-        # Make sure Django uses the same JobApplication instance we've already been
-        # working on. Otherwise it will instantiate a new one after every submit.
+
         kwargs = super().get_form_kwargs()
         kwargs["instance"] = self.user_id
         return kwargs

@@ -25,9 +25,7 @@ html {
   justify-content: space-between;
   width: 100%;
   max-width: 867px;
-  /*margin: 25px 10px;*/
   margin: auto;
-  /*height: calc(100% - 50px);*/
   height: 700px;
   min-height: 700px;
   border: var(--border);

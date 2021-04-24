@@ -6,7 +6,6 @@ from recommender.views import RecommenderView, RecommenderThankYouView, Recommen
 app_name = "recommender"
 
 urlpatterns = [
-    #path('', RecommenderView.as_view(), name="recommender"),
     path('', RecommenderWelcomeView.as_view(), name="welcome"),
     path('thank_you/', RecommenderThankYouView.as_view(), name="thank_you"),
     path('positive/', RecommenderPositiveView.as_view(), name="positive"),

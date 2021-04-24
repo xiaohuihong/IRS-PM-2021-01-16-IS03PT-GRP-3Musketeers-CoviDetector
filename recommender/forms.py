@@ -15,15 +15,3 @@ class BaseApplicationForm(ModelForm):
                 self.fields.get(field).required = True
             if field in hidden_fields:
                 self.fields.get(field).widget = HiddenInput()
-
-#    def clean_first_name(self):
-#        age = self.cleaned_data.get("age", "")
-#       if "e" in age:
-#            raise ValidationError("People with 'e' in their first name need not apply.")
-#        # else
-#       return age
-
-#    class Media:
-#        css = {
-#            "all": ("recommender/css/job_application.css",)
-#        }

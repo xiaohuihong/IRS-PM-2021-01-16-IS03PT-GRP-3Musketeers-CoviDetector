@@ -156,7 +156,7 @@ class ChatBotApiView(View):
     print("===================================test==================================")
 
     cwd = os.getcwd()
-    data_path = os.path.join(cwd + '\\chatbot\\data\\')
+    data_path = os.path.join(cwd + '\\..\\..\\Miscellaneous\\')
     excel_name = 'COVID_FAQ.xlsx'
     worksheet_name = 'FAQ'
     threshold = 0.6

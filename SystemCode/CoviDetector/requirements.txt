@@ -7,3 +7,4 @@ numpy==1.19.5
 pandas==1.1.5
 sklearn
 nltk==3.6.1
+beautifulsoup4

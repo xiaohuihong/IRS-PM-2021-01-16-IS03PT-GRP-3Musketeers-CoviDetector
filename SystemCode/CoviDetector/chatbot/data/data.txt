@@ -1,0 +1,2763 @@
+
+                                   As of 25 April 2021, 12pm, the Ministry of Health (MOH) has confirmed and verified that there are no new cases of locally transmitted COVID-19 infection. There are 40 imported cases, who had already been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new cases today, 37 are asymptomatic, and were detected from our proactive screening and surveillance, while 3 were symptomatic.  Summary of new casesBreakdown byBreakdown byNumber of casesAlready in quarantine/ isolation before detectionDetected from surveillanceSymptomaticAsymptomaticCases in the community00000Cases residing in dormitories00000Imported cases40400337Total402.     Overall, the number of new cases in the community has increased from 8 cases in the week before to 10 cases in the past week. The number of unlinked cases in the community has decreased from 4 cases in the week before to 3 cases in the past week. We will continue to closely monitor these numbers, as well as the cases detected through our surveillance programme.3.     Amongst the 175 confirmed cases reported from 19 April to 25 April, 64 cases have tested positive for their serology tests, 68 have tested negative, and 43 serology test results are pending.Case Detailsa) Cases in the community: 0There are no cases in the community today. b) Cases residing in dormitories: 0There are no cases residing in dormitories today. c) Imported cases: 40Amongst the 40 imported cases, - 2 (Cases 62382 and 62428) are Singaporeans and 10 (Cases 62374, 62388, 62397, 62398, 62402, 62418, 62419, 62420, 62423 and 62427) are Singapore Permanent Residents who returned from India, Indonesia, the Philippines and UAE.- 4 (Cases 62383, 62385, 62394 and 62401) are Dependant’s Pass holders who arrived from India and Nepal.- 5 (Cases 62380, 62381, 62384, 62386 and 62411) are Work Pass holders who arrived from India, the Maldives and Nepal.- 12 are Work Permit holders who arrived from India, Indonesia, Malaysia and the Philippines, of whom 6 (Cases 62376, 62405, 62406, 62408, 62409 and 62413) are foreign domestic workers.- 4 (Cases 62403, 62404, 62412 and 62421) are Student’s Pass holders who arrived from Bangladesh and India.- 3 (Cases 62393, 62396 and 62417) are Short-Term Visit Pass holders. Cases 62393 and 62396 arrived from Indonesia and India respectively to visit their family members who are Singaporeans or Singapore Permanent Residents. Case 62417 arrived from Indonesia for a work project in Singapore. They had all already been placed on SHN upon arrival in Singapore and were tested while serving SHN. 4.     Please refer to the Annexes and MOH’s daily Situation Report (www.moh.gov.sg/covid-19/situation-report) for details. 5.     Epidemiological investigations are ongoing. In the meantime, all the identified close contacts of the cases have been isolated and placed on quarantine, and will be tested at the start and end of their quarantine period so that we can detect asymptomatic cases. We will also conduct serological tests for the close contacts to determine if the cases could have been infected by them. Update on condition of confirmed cases6.     33 more cases of COVID-19 infection have been discharged from hospitals or community isolation facilities. In all, 60,662 have fully recovered from the infection and have been discharged from hospitals or community care facilities. 7.     There are currently 94 confirmed cases who are still in hospital. Of these, most are stable or improving, and 1 is in critical condition in the intensive care unit. 220 are isolated and cared for at community facilities. These are those who have mild symptoms, or are clinically well but still test positive for COVID-19. 30 have passed away from complications due to COVID-19 infection. MINISTRY OF HEALTH25 APRIL 2021
+North America total cases: 37,964,752
+North America new cases: +2,179
+North America total death: 855,693
+North America new death: +135
+North America total recovered cases: 29,618,745
+North America new recovered cases: +2,643
+North America active cases: 7,490,314
+North America serious,critical cases: 17,522
+North America total cases per 1M pop: 
+North America death per 1M pop: 
+North America total test: 
+North America test per 1M pop: 
+Asia total cases: 37,046,080
+Asia new cases: +3,227
+Asia total death: 495,527
+Asia new death: +24
+Asia total recovered cases: 31,793,688
+Asia new recovered cases: +2,182
+Asia active cases: 4,756,865
+Asia serious,critical cases: 30,705
+Asia total cases per 1M pop: 
+Asia death per 1M pop: 
+Asia total test: 
+Asia test per 1M pop: 
+South America total cases: 24,263,369
+South America new cases: +474
+South America total death: 651,354
+South America new death: +12
+South America total recovered cases: 21,844,944
+South America new recovered cases: +752
+South America active cases: 1,767,071
+South America serious,critical cases: 26,965
+South America total cases per 1M pop: 
+South America death per 1M pop: 
+South America total test: 
+South America test per 1M pop: 
+Europe total cases: 43,906,738
+Europe new cases: +2,377
+Europe total death: 998,414
+Europe new death: +34
+Europe total recovered cases: 38,376,784
+Europe new recovered cases: +5,325
+Europe active cases: 4,531,540
+Europe serious,critical cases: 31,471
+Europe total cases per 1M pop: 
+Europe death per 1M pop: 
+Europe total test: 
+Europe test per 1M pop: 
+Africa total cases: 4,544,970
+Africa new cases: 
+Africa total death: 120,443
+Africa new death: 
+Africa total recovered cases: 4,061,995
+Africa new recovered cases: 
+Africa active cases: 362,532
+Africa serious,critical cases: 3,823
+Africa total cases per 1M pop: 
+Africa death per 1M pop: 
+Africa total test: 
+Africa test per 1M pop: 
+Oceania total cases: 62,368
+Oceania new cases: +10
+Oceania total death: 1,187
+Oceania new death: 
+Oceania total recovered cases: 44,470
+Oceania new recovered cases: 
+Oceania active cases: 16,711
+Oceania serious,critical cases: 9
+Oceania total cases per 1M pop: 
+Oceania death per 1M pop: 
+Oceania total test: 
+Oceania test per 1M pop: 
+ total cases: 721
+ new cases: 
+ total death: 15
+ new death: 
+ total recovered cases: 706
+ new recovered cases: 
+ active cases: 0
+ serious,critical cases: 0
+ total cases per 1M pop: 
+ death per 1M pop: 
+ total test: 
+ test per 1M pop: 
+World total cases: 147,788,998
+World new cases: +8,267
+World total death: 3,122,633
+World new death: +205
+World total recovered cases: 125,741,332
+World new recovered cases: +10,902
+World active cases: 18,925,033
+World serious,critical cases: 110,495
+World total cases per 1M pop: 18,960
+World death per 1M pop: 400.6
+World total test: 
+World test per 1M pop: 
+USA total cases: 32,824,389
+USA new cases: 
+USA total death: 586,152 
+USA new death: 
+USA total recovered cases: 25,379,831
+USA new recovered cases: 
+USA active cases: 6,858,406
+USA serious,critical cases: 9,912
+USA total cases per 1M pop: 98,695
+USA death per 1M pop: 1,762
+USA total test: 439,643,492
+USA test per 1M pop: 1,321,898
+India total cases: 17,306,300
+India new cases: 
+India total death: 195,116 
+India new death: 
+India total recovered cases: 14,296,640
+India new recovered cases: 
+India active cases: 2,814,544
+India serious,critical cases: 8,944
+India total cases per 1M pop: 12,441
+India death per 1M pop: 140
+India total test: 277,918,810
+India test per 1M pop: 199,791
+Brazil total cases: 14,340,787
+Brazil new cases: 
+Brazil total death: 390,925 
+Brazil new death: 
+Brazil total recovered cases: 12,809,169
+Brazil new recovered cases: 
+Brazil active cases: 1,140,693
+Brazil serious,critical cases: 8,318
+Brazil total cases per 1M pop: 67,079
+Brazil death per 1M pop: 1,829
+Brazil total test: 43,538,104
+Brazil test per 1M pop: 203,648
+France total cases: 5,498,044
+France new cases: 
+France total death: 102,858 
+France new death: 
+France total recovered cases: 4,363,098
+France new recovered cases: 
+France active cases: 1,032,088
+France serious,critical cases: 5,978
+France total cases per 1M pop: 84,079
+France death per 1M pop: 1,573
+France total test: 74,505,035
+France test per 1M pop: 1,139,371
+Russia total cases: 4,762,569
+Russia new cases: 
+Russia total death: 108,232 
+Russia new death: 
+Russia total recovered cases: 4,388,008
+Russia new recovered cases: 
+Russia active cases: 266,329
+Russia serious,critical cases: 2,300
+Russia total cases per 1M pop: 32,624
+Russia death per 1M pop: 741
+Russia total test: 127,800,000
+Russia test per 1M pop: 875,429
+Turkey total cases: 4,629,969
+Turkey new cases: 
+Turkey total death: 38,358 
+Turkey new death: 
+Turkey total recovered cases: 4,073,644
+Turkey new recovered cases: 
+Turkey active cases: 517,967
+Turkey serious,critical cases: 3,590
+Turkey total cases per 1M pop: 54,421
+Turkey death per 1M pop: 451
+Turkey total test: 45,884,258
+Turkey test per 1M pop: 539,322
+UK total cases: 4,404,882
+UK new cases: 
+UK total death: 127,428 
+UK new death: 
+UK total recovered cases: 4,193,828
+UK new recovered cases: 
+UK active cases: 83,626
+UK serious,critical cases: 243
+UK total cases per 1M pop: 64,610
+UK death per 1M pop: 1,869
+UK total test: 148,737,754
+UK test per 1M pop: 2,181,648
+Italy total cases: 3,962,674
+Italy new cases: 
+Italy total death: 119,238 
+Italy new death: 
+Italy total recovered cases: 3,382,224
+Italy new recovered cases: 
+Italy active cases: 461,212
+Italy serious,critical cases: 2,862
+Italy total cases per 1M pop: 65,619
+Italy death per 1M pop: 1,974
+Italy total test: 57,126,017
+Italy test per 1M pop: 945,965
+Spain total cases: 3,468,617
+Spain new cases: 
+Spain total death: 77,591 
+Spain new death: 
+Spain total recovered cases: 3,163,849
+Spain new recovered cases: 
+Spain active cases: 227,177
+Spain serious,critical cases: 2,297
+Spain total cases per 1M pop: 74,164
+Spain death per 1M pop: 1,659
+Spain total test: 44,374,223
+Spain test per 1M pop: 948,784
+Germany total cases: 3,298,201
+Germany new cases: 
+Germany total death: 82,237 
+Germany new death: 
+Germany total recovered cases: 2,893,900
+Germany new recovered cases: 
+Germany active cases: 322,064
+Germany serious,critical cases: 5,049
+Germany total cases per 1M pop: 39,263
+Germany death per 1M pop: 979
+Germany total test: 54,061,332
+Germany test per 1M pop: 643,568
+Argentina total cases: 2,860,884
+Argentina new cases: 
+Argentina total death: 61,644 
+Argentina new death: 
+Argentina total recovered cases: 2,518,167
+Argentina new recovered cases: 
+Argentina active cases: 281,073
+Argentina serious,critical cases: 4,942
+Argentina total cases per 1M pop: 62,830
+Argentina death per 1M pop: 1,354
+Argentina total test: 10,733,477
+Argentina test per 1M pop: 235,727
+Colombia total cases: 2,774,464
+Colombia new cases: 
+Colombia total death: 71,351 
+Colombia new death: 
+Colombia total recovered cases: 2,588,204
+Colombia new recovered cases: 
+Colombia active cases: 114,909
+Colombia serious,critical cases: 5,645
+Colombia total cases per 1M pop: 54,058
+Colombia death per 1M pop: 1,390
+Colombia total test: 14,398,609
+Colombia test per 1M pop: 280,542
+Poland total cases: 2,758,856
+Poland new cases: 
+Poland total death: 65,415 
+Poland new death: 
+Poland total recovered cases: 2,439,412
+Poland new recovered cases: 
+Poland active cases: 254,029
+Poland serious,critical cases: 3,185
+Poland total cases per 1M pop: 72,961
+Poland death per 1M pop: 1,730
+Poland total test: 13,901,801
+Poland test per 1M pop: 367,649
+Iran total cases: 2,396,204
+Iran new cases: 
+Iran total death: 69,574 
+Iran new death: 
+Iran total recovered cases: 1,877,517
+Iran new recovered cases: 
+Iran active cases: 449,113
+Iran serious,critical cases: 5,206
+Iran total cases per 1M pop: 28,235
+Iran death per 1M pop: 820
+Iran total test: 15,195,766
+Iran test per 1M pop: 179,053
+Mexico total cases: 2,328,391
+Mexico new cases: +1,653
+Mexico total death: 214,947 
+Mexico new death: +94
+Mexico total recovered cases: 1,850,680
+Mexico new recovered cases: +2,503
+Mexico active cases: 262,764
+Mexico serious,critical cases: 4,798
+Mexico total cases per 1M pop: 17,906
+Mexico death per 1M pop: 1,653
+Mexico total test: 6,538,675
+Mexico test per 1M pop: 50,284
+Ukraine total cases: 2,025,271
+Ukraine new cases: 
+Ukraine total death: 42,323 
+Ukraine new death: 
+Ukraine total recovered cases: 1,572,528
+Ukraine new recovered cases: 
+Ukraine active cases: 410,420
+Ukraine serious,critical cases: 177
+Ukraine total cases per 1M pop: 46,538
+Ukraine death per 1M pop: 973
+Ukraine total test: 9,214,479
+Ukraine test per 1M pop: 211,736
+Peru total cases: 1,761,575
+Peru new cases: 
+Peru total death: 59,724 
+Peru new death: 
+Peru total recovered cases: 1,688,091
+Peru new recovered cases: 
+Peru active cases: 13,760
+Peru serious,critical cases: 2,618
+Peru total cases per 1M pop: 52,828
+Peru death per 1M pop: 1,791
+Peru total test: 10,862,019
+Peru test per 1M pop: 325,745
+Indonesia total cases: 1,641,194
+Indonesia new cases: 
+Indonesia total death: 44,594 
+Indonesia new death: 
+Indonesia total recovered cases: 1,496,126
+Indonesia new recovered cases: 
+Indonesia active cases: 100,474
+Indonesia serious,critical cases: 
+Indonesia total cases per 1M pop: 5,949
+Indonesia death per 1M pop: 162
+Indonesia total test: 14,285,614
+Indonesia test per 1M pop: 51,782
+Czechia total cases: 1,619,383
+Czechia new cases: 
+Czechia total death: 28,962 
+Czechia new death: 
+Czechia total recovered cases: 1,524,146
+Czechia new recovered cases: 
+Czechia active cases: 66,275
+Czechia serious,critical cases: 742
+Czechia total cases per 1M pop: 150,989
+Czechia death per 1M pop: 2,700
+Czechia total test: 17,010,127
+Czechia test per 1M pop: 1,585,996
+South Africa total cases: 1,575,471
+South Africa new cases: 
+South Africa total death: 54,148 
+South Africa new death: 
+South Africa total recovered cases: 1,501,185
+South Africa new recovered cases: 
+South Africa active cases: 20,138
+South Africa serious,critical cases: 546
+South Africa total cases per 1M pop: 26,294
+South Africa death per 1M pop: 904
+South Africa total test: 10,530,979
+South Africa test per 1M pop: 175,760
+Netherlands total cases: 1,461,137
+Netherlands new cases: 
+Netherlands total death: 17,049 
+Netherlands new death: 
+Netherlands total recovered cases: 1,219,160
+Netherlands new recovered cases: 
+Netherlands active cases: 224,928
+Netherlands serious,critical cases: 835
+Netherlands total cases per 1M pop: 85,119
+Netherlands death per 1M pop: 993
+Netherlands total test: 12,274,847
+Netherlands test per 1M pop: 715,075
+Canada total cases: 1,178,987
+Canada new cases: 
+Canada total death: 23,965 
+Canada new death: 
+Canada total recovered cases: 1,068,792
+Canada new recovered cases: 
+Canada active cases: 86,230
+Canada serious,critical cases: 1,355
+Canada total cases per 1M pop: 31,016
+Canada death per 1M pop: 630
+Canada total test: 30,809,196
+Canada test per 1M pop: 810,520
+Chile total cases: 1,169,536
+Chile new cases: 
+Chile total death: 25,856 
+Chile new death: 
+Chile total recovered cases: 1,099,918
+Chile new recovered cases: 
+Chile active cases: 43,762
+Chile serious,critical cases: 3,353
+Chile total cases per 1M pop: 60,756
+Chile death per 1M pop: 1,343
+Chile total test: 12,777,259
+Chile test per 1M pop: 663,759
+Romania total cases: 1,046,264
+Romania new cases: 
+Romania total death: 27,394 
+Romania new death: 
+Romania total recovered cases: 972,476
+Romania new recovered cases: 
+Romania active cases: 46,394
+Romania serious,critical cases: 1,358
+Romania total cases per 1M pop: 54,685
+Romania death per 1M pop: 1,432
+Romania total test: 8,110,760
+Romania test per 1M pop: 423,922
+Iraq total cases: 1,031,322
+Iraq new cases: 
+Iraq total death: 15,257 
+Iraq new death: 
+Iraq total recovered cases: 905,301
+Iraq new recovered cases: 
+Iraq active cases: 110,764
+Iraq serious,critical cases: 526
+Iraq total cases per 1M pop: 25,183
+Iraq death per 1M pop: 373
+Iraq total test: 9,116,609
+Iraq test per 1M pop: 222,608
+Philippines total cases: 997,523
+Philippines new cases: 
+Philippines total death: 16,783 
+Philippines new death: 
+Philippines total recovered cases: 903,665
+Philippines new recovered cases: 
+Philippines active cases: 77,075
+Philippines serious,critical cases: 750
+Philippines total cases per 1M pop: 9,006
+Philippines death per 1M pop: 152
+Philippines total test: 11,517,226
+Philippines test per 1M pop: 103,977
+Belgium total cases: 974,418
+Belgium new cases: +2,377
+Belgium total death: 24,024 
+Belgium new death: +34
+Belgium total recovered cases: 830,618
+Belgium new recovered cases: +5,482
+Belgium active cases: 119,776
+Belgium serious,critical cases: 886
+Belgium total cases per 1M pop: 83,779
+Belgium death per 1M pop: 2,066
+Belgium total test: 12,289,480
+Belgium test per 1M pop: 1,056,636
+Sweden total cases: 938,343
+Sweden new cases: 
+Sweden total death: 13,923 
+Sweden new death: 
+Sweden total recovered cases: 772,336
+Sweden new recovered cases: 
+Sweden active cases: 152,084
+Sweden serious,critical cases: 403
+Sweden total cases per 1M pop: 92,442
+Sweden death per 1M pop: 1,372
+Sweden total test: 8,482,276
+Sweden test per 1M pop: 835,643
+Israel total cases: 838,024
+Israel new cases: 
+Israel total death: 6,352 
+Israel new death: 
+Israel total recovered cases: 829,983
+Israel new recovered cases: 
+Israel active cases: 1,689
+Israel serious,critical cases: 146
+Israel total cases per 1M pop: 91,113
+Israel death per 1M pop: 691
+Israel total test: 14,058,462
+Israel test per 1M pop: 1,528,494
+Portugal total cases: 834,442
+Portugal new cases: 
+Portugal total death: 16,965 
+Portugal new death: 
+Portugal total recovered cases: 792,685
+Portugal new recovered cases: 
+Portugal active cases: 24,792
+Portugal serious,critical cases: 98
+Portugal total cases per 1M pop: 82,030
+Portugal death per 1M pop: 1,668
+Portugal total test: 10,226,293
+Portugal test per 1M pop: 1,005,298
+Pakistan total cases: 795,627
+Pakistan new cases: 
+Pakistan total death: 17,117 
+Pakistan new death: 
+Pakistan total recovered cases: 689,812
+Pakistan new recovered cases: 
+Pakistan active cases: 88,698
+Pakistan serious,critical cases: 4,826
+Pakistan total cases per 1M pop: 3,546
+Pakistan death per 1M pop: 76
+Pakistan total test: 11,538,771
+Pakistan test per 1M pop: 51,427
+Hungary total cases: 769,518
+Hungary new cases: 
+Hungary total death: 26,625 
+Hungary new death: 
+Hungary total recovered cases: 482,207
+Hungary new recovered cases: 
+Hungary active cases: 260,686
+Hungary serious,critical cases: 790
+Hungary total cases per 1M pop: 79,823
+Hungary death per 1M pop: 2,762
+Hungary total test: 5,280,600
+Hungary test per 1M pop: 547,763
+Bangladesh total cases: 745,322
+Bangladesh new cases: 
+Bangladesh total death: 11,053 
+Bangladesh new death: 
+Bangladesh total recovered cases: 657,452
+Bangladesh new recovered cases: 
+Bangladesh active cases: 76,817
+Bangladesh serious,critical cases: 
+Bangladesh total cases per 1M pop: 4,489
+Bangladesh death per 1M pop: 67
+Bangladesh total test: 5,345,501
+Bangladesh test per 1M pop: 32,197
+Jordan total cases: 702,154
+Jordan new cases: 
+Jordan total death: 8,615 
+Jordan new death: 
+Jordan total recovered cases: 668,337
+Jordan new recovered cases: 
+Jordan active cases: 25,202
+Jordan serious,critical cases: 729
+Jordan total cases per 1M pop: 68,266
+Jordan death per 1M pop: 838
+Jordan total test: 6,610,353
+Jordan test per 1M pop: 642,681
+Serbia total cases: 679,667
+Serbia new cases: 
+Serbia total death: 6,227 
+Serbia new death: 
+Serbia total recovered cases: 619,577
+Serbia new recovered cases: 
+Serbia active cases: 53,863
+Serbia serious,critical cases: 202
+Serbia total cases per 1M pop: 78,046
+Serbia death per 1M pop: 715
+Serbia total test: 3,775,363
+Serbia test per 1M pop: 433,522
+Switzerland total cases: 646,509
+Switzerland new cases: 
+Switzerland total death: 10,595 
+Switzerland new death: 
+Switzerland total recovered cases: 577,630
+Switzerland new recovered cases: 
+Switzerland active cases: 58,284
+Switzerland serious,critical cases: 238
+Switzerland total cases per 1M pop: 74,259
+Switzerland death per 1M pop: 1,217
+Switzerland total test: 6,723,694
+Switzerland test per 1M pop: 772,289
+Austria total cases: 608,979
+Austria new cases: 
+Austria total death: 10,087 
+Austria new death: 
+Austria total recovered cases: 573,155
+Austria new recovered cases: 
+Austria active cases: 25,737
+Austria serious,critical cases: 522
+Austria total cases per 1M pop: 67,303
+Austria death per 1M pop: 1,115
+Austria total test: 30,688,612
+Austria test per 1M pop: 3,391,647
+Japan total cases: 562,141
+Japan new cases: 
+Japan total death: 9,913 
+Japan new death: 
+Japan total recovered cases: 501,609
+Japan new recovered cases: 
+Japan active cases: 50,619
+Japan serious,critical cases: 864
+Japan total cases per 1M pop: 4,456
+Japan death per 1M pop: 79
+Japan total test: 11,426,388
+Japan test per 1M pop: 90,571
+Lebanon total cases: 520,939
+Lebanon new cases: 
+Lebanon total death: 7,142 
+Lebanon new death: 
+Lebanon total recovered cases: 445,163
+Lebanon new recovered cases: 
+Lebanon active cases: 68,634
+Lebanon serious,critical cases: 641
+Lebanon total cases per 1M pop: 76,604
+Lebanon death per 1M pop: 1,050
+Lebanon total test: 3,919,971
+Lebanon test per 1M pop: 576,429
+UAE total cases: 510,738
+UAE new cases: 
+UAE total death: 1,571 
+UAE new death: 
+UAE total recovered cases: 492,109
+UAE new recovered cases: 
+UAE active cases: 17,058
+UAE serious,critical cases: 
+UAE total cases per 1M pop: 51,137
+UAE death per 1M pop: 157
+UAE total test: 43,116,566
+UAE test per 1M pop: 4,317,009
+Morocco total cases: 509,363
+Morocco new cases: 
+Morocco total death: 8,992  
+Morocco new death: 
+Morocco total recovered cases: 495,262
+Morocco new recovered cases: 
+Morocco active cases: 5,109
+Morocco serious,critical cases: 233
+Morocco total cases per 1M pop: 13,668
+Morocco death per 1M pop: 241
+Morocco total test: 6,221,767
+Morocco test per 1M pop: 166,954
+Saudi Arabia total cases: 412,216
+Saudi Arabia new cases: 
+Saudi Arabia total death: 6,900 
+Saudi Arabia new death: 
+Saudi Arabia total recovered cases: 395,557
+Saudi Arabia new recovered cases: 
+Saudi Arabia active cases: 9,759
+Saudi Arabia serious,critical cases: 1,246
+Saudi Arabia total cases per 1M pop: 11,693
+Saudi Arabia death per 1M pop: 196
+Saudi Arabia total test: 16,586,438
+Saudi Arabia test per 1M pop: 470,480
+Bulgaria total cases: 397,500
+Bulgaria new cases: 
+Bulgaria total death: 15,907 
+Bulgaria new death: 
+Bulgaria total recovered cases: 324,943
+Bulgaria new recovered cases: 
+Bulgaria active cases: 56,650
+Bulgaria serious,critical cases: 746
+Bulgaria total cases per 1M pop: 57,562
+Bulgaria death per 1M pop: 2,303
+Bulgaria total test: 2,447,180
+Bulgaria test per 1M pop: 354,375
+Malaysia total cases: 392,942
+Malaysia new cases: 
+Malaysia total death: 1,436 
+Malaysia new death: 
+Malaysia total recovered cases: 367,753
+Malaysia new recovered cases: 
+Malaysia active cases: 23,753
+Malaysia serious,critical cases: 283
+Malaysia total cases per 1M pop: 12,015
+Malaysia death per 1M pop: 44
+Malaysia total test: 9,066,170
+Malaysia test per 1M pop: 277,226
+Slovakia total cases: 379,911
+Slovakia new cases: 
+Slovakia total death: 11,495 
+Slovakia new death: 
+Slovakia total recovered cases: 255,300
+Slovakia new recovered cases: 
+Slovakia active cases: 113,116
+Slovakia serious,critical cases: 357
+Slovakia total cases per 1M pop: 69,558
+Slovakia death per 1M pop: 2,105
+Slovakia total test: 2,578,835
+Slovakia test per 1M pop: 472,158
+Ecuador total cases: 373,362
+Ecuador new cases: 
+Ecuador total death: 18,177 
+Ecuador new death: 
+Ecuador total recovered cases: 318,598
+Ecuador new recovered cases: 
+Ecuador active cases: 36,587
+Ecuador serious,critical cases: 636
+Ecuador total cases per 1M pop: 20,904
+Ecuador death per 1M pop: 1,018
+Ecuador total test: 1,259,992
+Ecuador test per 1M pop: 70,545
+Panama total cases: 362,967
+Panama new cases: 
+Panama total death: 6,209 
+Panama new death: 
+Panama total recovered cases: 352,833
+Panama new recovered cases: 
+Panama active cases: 3,925
+Panama serious,critical cases: 105
+Panama total cases per 1M pop: 83,060
+Panama death per 1M pop: 1,421
+Panama total test: 2,353,895
+Panama test per 1M pop: 538,656
+Belarus total cases: 352,950
+Belarus new cases: 
+Belarus total death: 2,493 
+Belarus new death: 
+Belarus total recovered cases: 343,557
+Belarus new recovered cases: 
+Belarus active cases: 6,900
+Belarus serious,critical cases: 
+Belarus total cases per 1M pop: 37,362
+Belarus death per 1M pop: 264
+Belarus total test: 5,778,401
+Belarus test per 1M pop: 611,679
+Greece total cases: 333,129
+Greece new cases: 
+Greece total death: 10,007 
+Greece new death: 
+Greece total recovered cases: 291,153
+Greece new recovered cases: 
+Greece active cases: 31,969
+Greece serious,critical cases: 816
+Greece total cases per 1M pop: 32,089
+Greece death per 1M pop: 964
+Greece total test: 7,848,074
+Greece test per 1M pop: 755,974
+Croatia total cases: 322,626
+Croatia new cases: 
+Croatia total death: 6,854 
+Croatia new death: 
+Croatia total recovered cases: 300,492
+Croatia new recovered cases: 
+Croatia active cases: 15,280
+Croatia serious,critical cases: 240
+Croatia total cases per 1M pop: 78,987
+Croatia death per 1M pop: 1,678
+Croatia total test: 1,759,208
+Croatia test per 1M pop: 430,698
+Azerbaijan total cases: 313,006
+Azerbaijan new cases: 
+Azerbaijan total death: 4,371 
+Azerbaijan new death: 
+Azerbaijan total recovered cases: 279,179
+Azerbaijan new recovered cases: 
+Azerbaijan active cases: 29,456
+Azerbaijan serious,critical cases: 
+Azerbaijan total cases per 1M pop: 30,646
+Azerbaijan death per 1M pop: 428
+Azerbaijan total test: 3,189,536
+Azerbaijan test per 1M pop: 312,283
+Kazakhstan total cases: 309,116
+Kazakhstan new cases: +2,716
+Kazakhstan total death: 3,570 
+Kazakhstan new death: +20
+Kazakhstan total recovered cases: 263,446
+Kazakhstan new recovered cases: +1,799
+Kazakhstan active cases: 42,100
+Kazakhstan serious,critical cases: 221
+Kazakhstan total cases per 1M pop: 16,304
+Kazakhstan death per 1M pop: 188
+Kazakhstan total test: 9,943,652
+Kazakhstan test per 1M pop: 524,471
+Georgia total cases: 303,751
+Georgia new cases: 
+Georgia total death: 4,025 
+Georgia new death: 
+Georgia total recovered cases: 285,971
+Georgia new recovered cases: 
+Georgia active cases: 13,755
+Georgia serious,critical cases: 
+Georgia total cases per 1M pop: 76,264
+Georgia death per 1M pop: 1,011
+Georgia total test: 4,059,312
+Georgia test per 1M pop: 1,019,183
+Tunisia total cases: 300,342
+Tunisia new cases: 
+Tunisia total death: 10,304 
+Tunisia new death: 
+Tunisia total recovered cases: 249,146
+Tunisia new recovered cases: 
+Tunisia active cases: 40,892
+Tunisia serious,critical cases: 515
+Tunisia total cases per 1M pop: 25,198
+Tunisia death per 1M pop: 864
+Tunisia total test: 1,279,495
+Tunisia test per 1M pop: 107,347
+Nepal total cases: 300,119
+Nepal new cases: 
+Nepal total death: 3,164 
+Nepal new death: 
+Nepal total recovered cases: 277,573
+Nepal new recovered cases: 
+Nepal active cases: 19,382
+Nepal serious,critical cases: 
+Nepal total cases per 1M pop: 10,152
+Nepal death per 1M pop: 107
+Nepal total test: 2,405,017
+Nepal test per 1M pop: 81,355
+Bolivia total cases: 297,659
+Bolivia new cases: +474
+Bolivia total death: 12,824 
+Bolivia new death: +12
+Bolivia total recovered cases: 245,633
+Bolivia new recovered cases: +752
+Bolivia active cases: 39,202
+Bolivia serious,critical cases: 71
+Bolivia total cases per 1M pop: 25,220
+Bolivia death per 1M pop: 1,087
+Bolivia total test: 1,111,484
+Bolivia test per 1M pop: 94,174
+Palestine total cases: 290,972
+Palestine new cases: 
+Palestine total death: 3,167 
+Palestine new death: 
+Palestine total recovered cases: 262,602
+Palestine new recovered cases: 
+Palestine active cases: 25,203
+Palestine serious,critical cases: 151
+Palestine total cases per 1M pop: 55,984
+Palestine death per 1M pop: 609
+Palestine total test: 1,714,206
+Palestine test per 1M pop: 329,816
+Paraguay total cases: 267,082
+Paraguay new cases: 
+Paraguay total death: 5,900 
+Paraguay new death: 
+Paraguay total recovered cases: 219,647
+Paraguay new recovered cases: 
+Paraguay active cases: 41,535
+Paraguay serious,critical cases: 514
+Paraguay total cases per 1M pop: 37,075
+Paraguay death per 1M pop: 819
+Paraguay total test: 1,065,362
+Paraguay test per 1M pop: 147,889
+Kuwait total cases: 266,949
+Kuwait new cases: 
+Kuwait total death: 1,516 
+Kuwait new death: 
+Kuwait total recovered cases: 250,074
+Kuwait new recovered cases: 
+Kuwait active cases: 15,359
+Kuwait serious,critical cases: 222
+Kuwait total cases per 1M pop: 61,767
+Kuwait death per 1M pop: 351
+Kuwait total test: 2,280,865
+Kuwait test per 1M pop: 527,747
+Dominican Republic total cases: 264,863
+Dominican Republic new cases: 
+Dominican Republic total death: 3,454 
+Dominican Republic new death: 
+Dominican Republic total recovered cases: 221,825
+Dominican Republic new recovered cases: 
+Dominican Republic active cases: 39,584
+Dominican Republic serious,critical cases: 177
+Dominican Republic total cases per 1M pop: 24,218
+Dominican Republic death per 1M pop: 316
+Dominican Republic total test: 1,393,432
+Dominican Republic test per 1M pop: 127,412
+Ethiopia total cases: 252,279
+Ethiopia new cases: 
+Ethiopia total death: 3,551 
+Ethiopia new death: 
+Ethiopia total recovered cases: 192,747
+Ethiopia new recovered cases: 
+Ethiopia active cases: 55,981
+Ethiopia serious,critical cases: 1,010
+Ethiopia total cases per 1M pop: 2,151
+Ethiopia death per 1M pop: 30
+Ethiopia total test: 2,550,394
+Ethiopia test per 1M pop: 21,748
+Moldova total cases: 249,139
+Moldova new cases: 
+Moldova total death: 5,730 
+Moldova new death: 
+Moldova total recovered cases: 237,405
+Moldova new recovered cases: 
+Moldova active cases: 6,004
+Moldova serious,critical cases: 222
+Moldova total cases per 1M pop: 61,878
+Moldova death per 1M pop: 1,423
+Moldova total test: 968,355
+Moldova test per 1M pop: 240,507
+Denmark total cases: 247,622
+Denmark new cases: 
+Denmark total death: 2,475 
+Denmark new death: 
+Denmark total recovered cases: 235,622
+Denmark new recovered cases: 
+Denmark active cases: 9,525
+Denmark serious,critical cases: 40
+Denmark total cases per 1M pop: 42,628
+Denmark death per 1M pop: 426
+Denmark total test: 35,279,024
+Denmark test per 1M pop: 6,073,331
+Ireland total cases: 246,633
+Ireland new cases: 
+Ireland total death: 4,873 
+Ireland new death: 
+Ireland total recovered cases: 228,454
+Ireland new recovered cases: 
+Ireland active cases: 13,306
+Ireland serious,critical cases: 45
+Ireland total cases per 1M pop: 49,498
+Ireland death per 1M pop: 978
+Ireland total test: 4,387,769
+Ireland test per 1M pop: 880,607
+Lithuania total cases: 241,297
+Lithuania new cases: 
+Lithuania total death: 3,848 
+Lithuania new death: 
+Lithuania total recovered cases: 217,911
+Lithuania new recovered cases: 
+Lithuania active cases: 19,538
+Lithuania serious,critical cases: 192
+Lithuania total cases per 1M pop: 89,664
+Lithuania death per 1M pop: 1,430
+Lithuania total test: 2,714,675
+Lithuania test per 1M pop: 1,008,746
+Costa Rica total cases: 238,760
+Costa Rica new cases: 
+Costa Rica total death: 3,143 
+Costa Rica new death: 
+Costa Rica total recovered cases: 199,982
+Costa Rica new recovered cases: 
+Costa Rica active cases: 35,635
+Costa Rica serious,critical cases: 303
+Costa Rica total cases per 1M pop: 46,524
+Costa Rica death per 1M pop: 612
+Costa Rica total test: 932,115
+Costa Rica test per 1M pop: 181,628
+Slovenia total cases: 237,028
+Slovenia new cases: 
+Slovenia total death: 4,208 
+Slovenia new death: 
+Slovenia total recovered cases: 222,358
+Slovenia new recovered cases: 
+Slovenia active cases: 10,462
+Slovenia serious,critical cases: 157
+Slovenia total cases per 1M pop: 114,001
+Slovenia death per 1M pop: 2,024
+Slovenia total test: 1,159,199
+Slovenia test per 1M pop: 557,529
+Egypt total cases: 222,523
+Egypt new cases: 
+Egypt total death: 13,049 
+Egypt new death: 
+Egypt total recovered cases: 167,024
+Egypt new recovered cases: 
+Egypt active cases: 42,450
+Egypt serious,critical cases: 90
+Egypt total cases per 1M pop: 2,142
+Egypt death per 1M pop: 126
+Egypt total test: 2,677,262
+Egypt test per 1M pop: 25,768
+Guatemala total cases: 221,698
+Guatemala new cases: 
+Guatemala total death: 7,410 
+Guatemala new death: 
+Guatemala total recovered cases: 196,657
+Guatemala new recovered cases: 
+Guatemala active cases: 17,631
+Guatemala serious,critical cases: 5
+Guatemala total cases per 1M pop: 12,192
+Guatemala death per 1M pop: 407
+Guatemala total test: 1,222,310
+Guatemala test per 1M pop: 67,217
+Armenia total cases: 213,288
+Armenia new cases: 
+Armenia total death: 4,018 
+Armenia new death: 
+Armenia total recovered cases: 194,080
+Armenia new recovered cases: 
+Armenia active cases: 15,190
+Armenia serious,critical cases: 
+Armenia total cases per 1M pop: 71,868
+Armenia death per 1M pop: 1,354
+Armenia total test: 963,225
+Armenia test per 1M pop: 324,563
+Honduras total cases: 206,907
+Honduras new cases: +526
+Honduras total death: 5,141 
+Honduras new death: +41
+Honduras total recovered cases: 77,679
+Honduras new recovered cases: +140
+Honduras active cases: 124,087
+Honduras serious,critical cases: 596
+Honduras total cases per 1M pop: 20,624
+Honduras death per 1M pop: 512
+Honduras total test: 607,121
+Honduras test per 1M pop: 60,515
+Qatar total cases: 202,201
+Qatar new cases: 
+Qatar total death: 428 
+Qatar new death: 
+Qatar total recovered cases: 181,522
+Qatar new recovered cases: 
+Qatar active cases: 20,251
+Qatar serious,critical cases: 431
+Qatar total cases per 1M pop: 72,014
+Qatar death per 1M pop: 152
+Qatar total test: 1,880,180
+Qatar test per 1M pop: 669,626
+Bosnia and Herzegovina total cases: 194,733
+Bosnia and Herzegovina new cases: 
+Bosnia and Herzegovina total death: 8,203 
+Bosnia and Herzegovina new death: 
+Bosnia and Herzegovina total recovered cases: 153,408
+Bosnia and Herzegovina new recovered cases: 
+Bosnia and Herzegovina active cases: 33,122
+Bosnia and Herzegovina serious,critical cases: 
+Bosnia and Herzegovina total cases per 1M pop: 59,659
+Bosnia and Herzegovina death per 1M pop: 2,513
+Bosnia and Herzegovina total test: 887,506
+Bosnia and Herzegovina test per 1M pop: 271,898
+Venezuela total cases: 191,518
+Venezuela new cases: 
+Venezuela total death: 2,047 
+Venezuela new death: 
+Venezuela total recovered cases: 173,097
+Venezuela new recovered cases: 
+Venezuela active cases: 16,374
+Venezuela serious,critical cases: 293
+Venezuela total cases per 1M pop: 6,751
+Venezuela death per 1M pop: 72
+Venezuela total test: 3,359,014
+Venezuela test per 1M pop: 118,400
+Oman total cases: 188,816
+Oman new cases: 
+Oman total death: 1,977 
+Oman new death: 
+Oman total recovered cases: 168,770
+Oman new recovered cases: 
+Oman active cases: 18,069
+Oman serious,critical cases: 272
+Oman total cases per 1M pop: 36,229
+Oman death per 1M pop: 379
+Oman total test: 1,550,000
+Oman test per 1M pop: 297,407
+Uruguay total cases: 184,865
+Uruguay new cases: 
+Uruguay total death: 2,326 
+Uruguay new death: 
+Uruguay total recovered cases: 154,489
+Uruguay new recovered cases: 
+Uruguay active cases: 28,050
+Uruguay serious,critical cases: 531
+Uruguay total cases per 1M pop: 53,068
+Uruguay death per 1M pop: 668
+Uruguay total test: 1,734,515
+Uruguay test per 1M pop: 497,916
+Libya total cases: 175,286
+Libya new cases: 
+Libya total death: 2,996 
+Libya new death: 
+Libya total recovered cases: 160,643
+Libya new recovered cases: 
+Libya active cases: 11,647
+Libya serious,critical cases: 
+Libya total cases per 1M pop: 25,231
+Libya death per 1M pop: 431
+Libya total test: 945,732
+Libya test per 1M pop: 136,130
+Bahrain total cases: 171,370
+Bahrain new cases: 
+Bahrain total death: 624 
+Bahrain new death: 
+Bahrain total recovered cases: 160,089
+Bahrain new recovered cases: 
+Bahrain active cases: 10,657
+Bahrain serious,critical cases: 93
+Bahrain total cases per 1M pop: 97,968
+Bahrain death per 1M pop: 357
+Bahrain total test: 4,013,356
+Bahrain test per 1M pop: 2,294,330
+Nigeria total cases: 164,719
+Nigeria new cases: 
+Nigeria total death: 2,062 
+Nigeria new death: 
+Nigeria total recovered cases: 154,926
+Nigeria new recovered cases: 
+Nigeria active cases: 7,731
+Nigeria serious,critical cases: 11
+Nigeria total cases per 1M pop: 783
+Nigeria death per 1M pop: 10
+Nigeria total test: 1,870,915
+Nigeria test per 1M pop: 8,897
+Kenya total cases: 156,787
+Kenya new cases: 
+Kenya total death: 2,622 
+Kenya new death: 
+Kenya total recovered cases: 106,588
+Kenya new recovered cases: 
+Kenya active cases: 47,577
+Kenya serious,critical cases: 207
+Kenya total cases per 1M pop: 2,865
+Kenya death per 1M pop: 48
+Kenya total test: 1,645,209
+Kenya test per 1M pop: 30,060
+North Macedonia total cases: 150,588
+North Macedonia new cases: 
+North Macedonia total death: 4,677 
+North Macedonia new death: 
+North Macedonia total recovered cases: 129,053
+North Macedonia new recovered cases: 
+North Macedonia active cases: 16,858
+North Macedonia serious,critical cases: 124
+North Macedonia total cases per 1M pop: 72,283
+North Macedonia death per 1M pop: 2,245
+North Macedonia total test: 709,457
+North Macedonia test per 1M pop: 340,544
+Myanmar total cases: 142,712
+Myanmar new cases: 
+Myanmar total death: 3,206 
+Myanmar new death: 
+Myanmar total recovered cases: 131,930
+Myanmar new recovered cases: 
+Myanmar active cases: 7,576
+Myanmar serious,critical cases: 
+Myanmar total cases per 1M pop: 2,609
+Myanmar death per 1M pop: 59
+Myanmar total test: 2,566,064
+Myanmar test per 1M pop: 46,906
+Albania total cases: 130,537
+Albania new cases: 
+Albania total death: 2,378 
+Albania new death: 
+Albania total recovered cases: 105,728
+Albania new recovered cases: 
+Albania active cases: 22,431
+Albania serious,critical cases: 18
+Albania total cases per 1M pop: 45,401
+Albania death per 1M pop: 827
+Albania total test: 622,711
+Albania test per 1M pop: 216,578
+Algeria total cases: 120,922
+Algeria new cases: 
+Algeria total death: 3,207 
+Algeria new death: 
+Algeria total recovered cases: 84,299
+Algeria new recovered cases: 
+Algeria active cases: 33,416
+Algeria serious,critical cases: 20
+Algeria total cases per 1M pop: 2,718
+Algeria death per 1M pop: 72
+Algeria total test: 230,861
+Algeria test per 1M pop: 5,189
+Estonia total cases: 120,215
+Estonia new cases: 
+Estonia total death: 1,143 
+Estonia new death: 
+Estonia total recovered cases: 107,298
+Estonia new recovered cases: 
+Estonia active cases: 11,774
+Estonia serious,critical cases: 59
+Estonia total cases per 1M pop: 90,574
+Estonia death per 1M pop: 861
+Estonia total test: 1,262,863
+Estonia test per 1M pop: 951,478
+S. Korea total cases: 119,387
+S. Korea new cases: +500
+S. Korea total death: 1,817 
+S. Korea new death: +4
+S. Korea total recovered cases: 108,850
+S. Korea new recovered cases: +375
+S. Korea active cases: 8,720
+S. Korea serious,critical cases: 132
+S. Korea total cases per 1M pop: 2,327
+S. Korea death per 1M pop: 35
+S. Korea total test: 8,672,979
+S. Korea test per 1M pop: 169,047
+Latvia total cases: 115,316
+Latvia new cases: 
+Latvia total death: 2,102 
+Latvia new death: 
+Latvia total recovered cases: 105,254
+Latvia new recovered cases: 
+Latvia active cases: 7,960
+Latvia serious,critical cases: 78
+Latvia total cases per 1M pop: 61,696
+Latvia death per 1M pop: 1,125
+Latvia total test: 2,215,842
+Latvia test per 1M pop: 1,185,507
+Norway total cases: 110,612
+Norway new cases: 
+Norway total death: 736 
+Norway new death: 
+Norway total recovered cases: 88,952
+Norway new recovered cases: 
+Norway active cases: 20,924
+Norway serious,critical cases: 38
+Norway total cases per 1M pop: 20,274
+Norway death per 1M pop: 135
+Norway total test: 5,084,200
+Norway test per 1M pop: 931,893
+Cuba total cases: 101,503
+Cuba new cases: 
+Cuba total death: 591 
+Cuba new death: 
+Cuba total recovered cases: 95,095
+Cuba new recovered cases: 
+Cuba active cases: 5,817
+Cuba serious,critical cases: 66
+Cuba total cases per 1M pop: 8,966
+Cuba death per 1M pop: 52
+Cuba total test: 3,517,959
+Cuba test per 1M pop: 310,747
+Sri Lanka total cases: 101,379
+Sri Lanka new cases: 
+Sri Lanka total death: 642 
+Sri Lanka new death: 
+Sri Lanka total recovered cases: 94,311
+Sri Lanka new recovered cases: 
+Sri Lanka active cases: 6,426
+Sri Lanka serious,critical cases: 
+Sri Lanka total cases per 1M pop: 4,718
+Sri Lanka death per 1M pop: 30
+Sri Lanka total test: 2,374,627
+Sri Lanka test per 1M pop: 110,517
+Montenegro total cases: 96,660
+Montenegro new cases: 
+Montenegro total death: 1,465 
+Montenegro new death: 
+Montenegro total recovered cases: 92,609
+Montenegro new recovered cases: 
+Montenegro active cases: 2,586
+Montenegro serious,critical cases: 69
+Montenegro total cases per 1M pop: 153,885
+Montenegro death per 1M pop: 2,332
+Montenegro total test: 369,434
+Montenegro test per 1M pop: 588,148
+Kyrgyzstan total cases: 93,831
+Kyrgyzstan new cases: 
+Kyrgyzstan total death: 1,582 
+Kyrgyzstan new death: 
+Kyrgyzstan total recovered cases: 88,066
+Kyrgyzstan new recovered cases: 
+Kyrgyzstan active cases: 4,183
+Kyrgyzstan serious,critical cases: 25
+Kyrgyzstan total cases per 1M pop: 14,192
+Kyrgyzstan death per 1M pop: 239
+Kyrgyzstan total test: 964,218
+Kyrgyzstan test per 1M pop: 145,837
+Ghana total cases: 92,166
+Ghana new cases: 
+Ghana total death: 777 
+Ghana new death: 
+Ghana total recovered cases: 89,920
+Ghana new recovered cases: 
+Ghana active cases: 1,469
+Ghana serious,critical cases: 8
+Ghana total cases per 1M pop: 2,917
+Ghana death per 1M pop: 25
+Ghana total test: 1,063,581
+Ghana test per 1M pop: 33,659
+Zambia total cases: 91,358
+Zambia new cases: 
+Zambia total death: 1,246 
+Zambia new death: 
+Zambia total recovered cases: 89,574
+Zambia new recovered cases: 
+Zambia active cases: 538
+Zambia serious,critical cases: 39
+Zambia total cases per 1M pop: 4,859
+Zambia death per 1M pop: 66
+Zambia total test: 1,378,946
+Zambia test per 1M pop: 73,348
+Uzbekistan total cases: 89,027
+Uzbekistan new cases: 
+Uzbekistan total death: 643 
+Uzbekistan new death: 
+Uzbekistan total recovered cases: 85,764
+Uzbekistan new recovered cases: 
+Uzbekistan active cases: 2,620
+Uzbekistan serious,critical cases: 23
+Uzbekistan total cases per 1M pop: 2,629
+Uzbekistan death per 1M pop: 19
+Uzbekistan total test: 1,377,915
+Uzbekistan test per 1M pop: 40,690
+Finland total cases: 85,804
+Finland new cases: 
+Finland total death: 903 
+Finland new death: 
+Finland total recovered cases: 46,000
+Finland new recovered cases: 
+Finland active cases: 38,901
+Finland serious,critical cases: 31
+Finland total cases per 1M pop: 15,466
+Finland death per 1M pop: 163
+Finland total test: 4,385,992
+Finland test per 1M pop: 790,590
+Mozambique total cases: 69,665
+Mozambique new cases: 
+Mozambique total death: 807 
+Mozambique new death: 
+Mozambique total recovered cases: 62,501
+Mozambique new recovered cases: 
+Mozambique active cases: 6,357
+Mozambique serious,critical cases: 43
+Mozambique total cases per 1M pop: 2,180
+Mozambique death per 1M pop: 25
+Mozambique total test: 512,219
+Mozambique test per 1M pop: 16,025
+El Salvador total cases: 68,468
+El Salvador new cases: 
+El Salvador total death: 2,103 
+El Salvador new death: 
+El Salvador total recovered cases: 64,405
+El Salvador new recovered cases: 
+El Salvador active cases: 1,960
+El Salvador serious,critical cases: 33
+El Salvador total cases per 1M pop: 10,513
+El Salvador death per 1M pop: 323
+El Salvador total test: 902,426
+El Salvador test per 1M pop: 138,560
+Luxembourg total cases: 66,007
+Luxembourg new cases: 
+Luxembourg total death: 790 
+Luxembourg new death: 
+Luxembourg total recovered cases: 62,183
+Luxembourg new recovered cases: 
+Luxembourg active cases: 3,034
+Luxembourg serious,critical cases: 30
+Luxembourg total cases per 1M pop: 104,071
+Luxembourg death per 1M pop: 1,246
+Luxembourg total test: 2,606,391
+Luxembourg test per 1M pop: 4,109,413
+Cameroon total cases: 65,998
+Cameroon new cases: 
+Cameroon total death: 991 
+Cameroon new death: 
+Cameroon total recovered cases: 57,821
+Cameroon new recovered cases: 
+Cameroon active cases: 7,186
+Cameroon serious,critical cases: 385
+Cameroon total cases per 1M pop: 2,437
+Cameroon death per 1M pop: 37
+Cameroon total test: 1,257,949
+Cameroon test per 1M pop: 46,452
+Cyprus total cases: 62,349
+Cyprus new cases: 
+Cyprus total death: 298 
+Cyprus new death: 
+Cyprus total recovered cases: 39,061
+Cyprus new recovered cases: 
+Cyprus active cases: 22,990
+Cyprus serious,critical cases: 74
+Cyprus total cases per 1M pop: 51,336
+Cyprus death per 1M pop: 245
+Cyprus total test: 4,679,556
+Cyprus test per 1M pop: 3,853,005
+Singapore total cases: 61,006
+Singapore new cases: 
+Singapore total death: 30 
+Singapore new death: 
+Singapore total recovered cases: 60,662
+Singapore new recovered cases: 
+Singapore active cases: 314
+Singapore serious,critical cases: 1
+Singapore total cases per 1M pop: 10,361
+Singapore death per 1M pop: 5
+Singapore total test: 9,278,789
+Singapore test per 1M pop: 1,575,928
+Afghanistan total cases: 59,021
+Afghanistan new cases: 
+Afghanistan total death: 2,592 
+Afghanistan new death: 
+Afghanistan total recovered cases: 52,489
+Afghanistan new recovered cases: 
+Afghanistan active cases: 3,940
+Afghanistan serious,critical cases: 1,124
+Afghanistan total cases per 1M pop: 1,489
+Afghanistan death per 1M pop: 65
+Afghanistan total test: 395,439
+Afghanistan test per 1M pop: 9,976
+Thailand total cases: 55,460
+Thailand new cases: 
+Thailand total death: 140 
+Thailand new death: 
+Thailand total recovered cases: 31,113
+Thailand new recovered cases: 
+Thailand active cases: 24,207
+Thailand serious,critical cases: 1
+Thailand total cases per 1M pop: 793
+Thailand death per 1M pop: 2
+Thailand total test: 8,124,896
+Thailand test per 1M pop: 116,165
+Namibia total cases: 47,776
+Namibia new cases: 
+Namibia total death: 625 
+Namibia new death: 
+Namibia total recovered cases: 45,558
+Namibia new recovered cases: 
+Namibia active cases: 1,593
+Namibia serious,critical cases: 40
+Namibia total cases per 1M pop: 18,530
+Namibia death per 1M pop: 242
+Namibia total test: 381,182
+Namibia test per 1M pop: 147,845
+Botswana total cases: 45,855
+Botswana new cases: 
+Botswana total death: 691 
+Botswana new death: 
+Botswana total recovered cases: 41,338
+Botswana new recovered cases: 
+Botswana active cases: 3,826
+Botswana serious,critical cases: 1
+Botswana total cases per 1M pop: 19,185
+Botswana death per 1M pop: 289
+Botswana total test: 982,095
+Botswana test per 1M pop: 410,896
+Ivory Coast total cases: 45,852
+Ivory Coast new cases: 
+Ivory Coast total death: 282 
+Ivory Coast new death: 
+Ivory Coast total recovered cases: 45,374
+Ivory Coast new recovered cases: 
+Ivory Coast active cases: 196
+Ivory Coast serious,critical cases: 
+Ivory Coast total cases per 1M pop: 1,704
+Ivory Coast death per 1M pop: 10
+Ivory Coast total test: 573,182
+Ivory Coast test per 1M pop: 21,302
+Jamaica total cases: 45,004
+Jamaica new cases: 
+Jamaica total death: 760 
+Jamaica new death: 
+Jamaica total recovered cases: 20,519
+Jamaica new recovered cases: 
+Jamaica active cases: 23,725
+Jamaica serious,critical cases: 32
+Jamaica total cases per 1M pop: 15,144
+Jamaica death per 1M pop: 256
+Jamaica total test: 324,603
+Jamaica test per 1M pop: 109,231
+Uganda total cases: 41,655
+Uganda new cases: 
+Uganda total death: 341 
+Uganda new death: 
+Uganda total recovered cases: 40,898
+Uganda new recovered cases: 
+Uganda active cases: 416
+Uganda serious,critical cases: 24
+Uganda total cases per 1M pop: 888
+Uganda death per 1M pop: 7
+Uganda total test: 1,006,723
+Uganda test per 1M pop: 21,462
+Senegal total cases: 40,135
+Senegal new cases: 
+Senegal total death: 1,102 
+Senegal new death: 
+Senegal total recovered cases: 38,861
+Senegal new recovered cases: 
+Senegal active cases: 172
+Senegal serious,critical cases: 11
+Senegal total cases per 1M pop: 2,347
+Senegal death per 1M pop: 64
+Senegal total test: 473,584
+Senegal test per 1M pop: 27,694
+Zimbabwe total cases: 38,086
+Zimbabwe new cases: 
+Zimbabwe total death: 1,557 
+Zimbabwe new death: 
+Zimbabwe total recovered cases: 35,123
+Zimbabwe new recovered cases: 
+Zimbabwe active cases: 1,406
+Zimbabwe serious,critical cases: 12
+Zimbabwe total cases per 1M pop: 2,533
+Zimbabwe death per 1M pop: 104
+Zimbabwe total test: 405,684
+Zimbabwe test per 1M pop: 26,976
+Madagascar total cases: 35,746
+Madagascar new cases: 
+Madagascar total death: 599 
+Madagascar new death: 
+Madagascar total recovered cases: 28,429
+Madagascar new recovered cases: 
+Madagascar active cases: 6,718
+Madagascar serious,critical cases: 384
+Madagascar total cases per 1M pop: 1,265
+Madagascar death per 1M pop: 21
+Madagascar total test: 176,625
+Madagascar test per 1M pop: 6,248
+Malawi total cases: 34,016
+Malawi new cases: 
+Malawi total death: 1,147 
+Malawi new death: 
+Malawi total recovered cases: 31,908
+Malawi new recovered cases: 
+Malawi active cases: 961
+Malawi serious,critical cases: 6
+Malawi total cases per 1M pop: 1,742
+Malawi death per 1M pop: 59
+Malawi total test: 230,514
+Malawi test per 1M pop: 11,803
+Sudan total cases: 32,695
+Sudan new cases: 
+Sudan total death: 2,300 
+Sudan new death: 
+Sudan total recovered cases: 26,411
+Sudan new recovered cases: 
+Sudan active cases: 3,984
+Sudan serious,critical cases: 
+Sudan total cases per 1M pop: 732
+Sudan death per 1M pop: 51
+Sudan total test: 232,965
+Sudan test per 1M pop: 5,214
+Mongolia total cases: 30,483
+Mongolia new cases: 
+Mongolia total death: 78 
+Mongolia new death: 
+Mongolia total recovered cases: 15,403
+Mongolia new recovered cases: 
+Mongolia active cases: 15,002
+Mongolia serious,critical cases: 64
+Mongolia total cases per 1M pop: 9,178
+Mongolia death per 1M pop: 23
+Mongolia total test: 2,643,658
+Mongolia test per 1M pop: 796,003
+Malta total cases: 30,174
+Malta new cases: 
+Malta total death: 413 
+Malta new death: 
+Malta total recovered cases: 29,296
+Malta new recovered cases: 
+Malta active cases: 465
+Malta serious,critical cases: 
+Malta total cases per 1M pop: 68,189
+Malta death per 1M pop: 933
+Malta total test: 858,830
+Malta test per 1M pop: 1,940,846
+Australia total cases: 29,676
+Australia new cases: +10
+Australia total death: 910 
+Australia new death: 
+Australia total recovered cases: 28,522
+Australia new recovered cases: 
+Australia active cases: 244
+Australia serious,critical cases: 1
+Australia total cases per 1M pop: 1,153
+Australia death per 1M pop: 35
+Australia total test: 16,610,441
+Australia test per 1M pop: 645,302
+DRC total cases: 29,576
+DRC new cases: 
+DRC total death: 756 
+DRC new death: 
+DRC total recovered cases: 26,156
+DRC new recovered cases: 
+DRC active cases: 2,664
+DRC serious,critical cases: 
+DRC total cases per 1M pop: 322
+DRC death per 1M pop: 8
+DRC total test: 147,505
+DRC test per 1M pop: 1,608
+Maldives total cases: 27,874
+Maldives new cases: 
+Maldives total death: 71 
+Maldives new death: 
+Maldives total recovered cases: 24,309
+Maldives new recovered cases: 
+Maldives active cases: 3,494
+Maldives serious,critical cases: 90
+Maldives total cases per 1M pop: 50,840
+Maldives death per 1M pop: 129
+Maldives total test: 708,923
+Maldives test per 1M pop: 1,293,016
+Angola total cases: 25,609
+Angola new cases: 
+Angola total death: 579 
+Angola new death: 
+Angola total recovered cases: 23,092
+Angola new recovered cases: 
+Angola active cases: 1,938
+Angola serious,critical cases: 24
+Angola total cases per 1M pop: 760
+Angola death per 1M pop: 17
+Angola total test: 455,499
+Angola test per 1M pop: 13,520
+Rwanda total cases: 24,593
+Rwanda new cases: 
+Rwanda total death: 330 
+Rwanda new death: 
+Rwanda total recovered cases: 22,941
+Rwanda new recovered cases: 
+Rwanda active cases: 1,322
+Rwanda serious,critical cases: 6
+Rwanda total cases per 1M pop: 1,861
+Rwanda death per 1M pop: 25
+Rwanda total test: 1,289,120
+Rwanda test per 1M pop: 97,571
+Gabon total cases: 22,433
+Gabon new cases: 
+Gabon total death: 138 
+Gabon new death: 
+Gabon total recovered cases: 19,074
+Gabon new recovered cases: 
+Gabon active cases: 3,221
+Gabon serious,critical cases: 22
+Gabon total cases per 1M pop: 9,890
+Gabon death per 1M pop: 61
+Gabon total test: 710,576
+Gabon test per 1M pop: 313,269
+Cabo Verde total cases: 22,349
+Cabo Verde new cases: 
+Cabo Verde total death: 203 
+Cabo Verde new death: 
+Cabo Verde total recovered cases: 19,204
+Cabo Verde new recovered cases: 
+Cabo Verde active cases: 2,942
+Cabo Verde serious,critical cases: 23
+Cabo Verde total cases per 1M pop: 39,845
+Cabo Verde death per 1M pop: 362
+Cabo Verde total test: 144,736
+Cabo Verde test per 1M pop: 258,042
+Syria total cases: 22,135
+Syria new cases: 
+Syria total death: 1,537 
+Syria new death: 
+Syria total recovered cases: 15,913
+Syria new recovered cases: 
+Syria active cases: 4,685
+Syria serious,critical cases: 
+Syria total cases per 1M pop: 1,240
+Syria death per 1M pop: 86
+Syria total test: 103,566
+Syria test per 1M pop: 5,804
+Guinea total cases: 21,953
+Guinea new cases: 
+Guinea total death: 140 
+Guinea new death: 
+Guinea total recovered cases: 19,230
+Guinea new recovered cases: 
+Guinea active cases: 2,583
+Guinea serious,critical cases: 24
+Guinea total cases per 1M pop: 1,636
+Guinea death per 1M pop: 10
+Guinea total test: 426,690
+Guinea test per 1M pop: 31,793
+Mayotte total cases: 19,849
+Mayotte new cases: 
+Mayotte total death: 169 
+Mayotte new death: 
+Mayotte total recovered cases: 2,964
+Mayotte new recovered cases: 
+Mayotte active cases: 16,716
+Mayotte serious,critical cases: 5
+Mayotte total cases per 1M pop: 71,362
+Mayotte death per 1M pop: 608
+Mayotte total test: 165,683
+Mayotte test per 1M pop: 595,673
+Réunion total cases: 19,343
+Réunion new cases: 
+Réunion total death: 141 
+Réunion new death: 
+Réunion total recovered cases: 17,653
+Réunion new recovered cases: 
+Réunion active cases: 1,549
+Réunion serious,critical cases: 36
+Réunion total cases per 1M pop: 21,480
+Réunion death per 1M pop: 157
+Réunion total test: 100,098
+Réunion test per 1M pop: 111,156
+French Guiana total cases: 18,826
+French Guiana new cases: 
+French Guiana total death: 98 
+French Guiana new death: 
+French Guiana total recovered cases: 9,995
+French Guiana new recovered cases: 
+French Guiana active cases: 8,733
+French Guiana serious,critical cases: 14
+French Guiana total cases per 1M pop: 61,736
+French Guiana death per 1M pop: 321
+French Guiana total test: 208,396
+French Guiana test per 1M pop: 683,389
+French Polynesia total cases: 18,734
+French Polynesia new cases: 
+French Polynesia total death: 141 
+French Polynesia new death: 
+French Polynesia total recovered cases: 4,842
+French Polynesia new recovered cases: 
+French Polynesia active cases: 13,751
+French Polynesia serious,critical cases: 4
+French Polynesia total cases per 1M pop: 66,378
+French Polynesia death per 1M pop: 500
+French Polynesia total test: 26,355
+French Polynesia test per 1M pop: 93,381
+Eswatini total cases: 18,442
+Eswatini new cases: 
+Eswatini total death: 671 
+Eswatini new death: 
+Eswatini total recovered cases: 17,737
+Eswatini new recovered cases: 
+Eswatini active cases: 34
+Eswatini serious,critical cases: 3
+Eswatini total cases per 1M pop: 15,763
+Eswatini death per 1M pop: 574
+Eswatini total test: 182,826
+Eswatini test per 1M pop: 156,269
+Mauritania total cases: 18,257
+Mauritania new cases: 
+Mauritania total death: 454 
+Mauritania new death: 
+Mauritania total recovered cases: 17,587
+Mauritania new recovered cases: 
+Mauritania active cases: 216
+Mauritania serious,critical cases: 14
+Mauritania total cases per 1M pop: 3,845
+Mauritania death per 1M pop: 96
+Mauritania total test: 228,502
+Mauritania test per 1M pop: 48,121
+Somalia total cases: 13,670
+Somalia new cases: 
+Somalia total death: 698 
+Somalia new death: 
+Somalia total recovered cases: 5,679
+Somalia new recovered cases: 
+Somalia active cases: 7,293
+Somalia serious,critical cases: 
+Somalia total cases per 1M pop: 841
+Somalia death per 1M pop: 43
+Somalia total test: 109,233
+Somalia test per 1M pop: 6,721
+Guadeloupe total cases: 13,669
+Guadeloupe new cases: 
+Guadeloupe total death: 185 
+Guadeloupe new death: 
+Guadeloupe total recovered cases: 2,242
+Guadeloupe new recovered cases: 
+Guadeloupe active cases: 11,242
+Guadeloupe serious,critical cases: 23
+Guadeloupe total cases per 1M pop: 34,157
+Guadeloupe death per 1M pop: 462
+Guadeloupe total test: 171,662
+Guadeloupe test per 1M pop: 428,962
+Mali total cases: 13,627
+Mali new cases: 
+Mali total death: 467 
+Mali new death: 
+Mali total recovered cases: 8,071
+Mali new recovered cases: 
+Mali active cases: 5,089
+Mali serious,critical cases: 
+Mali total cases per 1M pop: 658
+Mali death per 1M pop: 23
+Mali total test: 249,766
+Mali test per 1M pop: 12,053
+Tajikistan total cases: 13,308
+Tajikistan new cases: 
+Tajikistan total death: 90 
+Tajikistan new death: 
+Tajikistan total recovered cases: 13,218
+Tajikistan new recovered cases: 
+Tajikistan active cases: 0
+Tajikistan serious,critical cases: 
+Tajikistan total cases per 1M pop: 1,370
+Tajikistan death per 1M pop: 9
+Tajikistan total test: 
+Tajikistan test per 1M pop: 
+Burkina Faso total cases: 13,263
+Burkina Faso new cases: 
+Burkina Faso total death: 156 
+Burkina Faso new death: 
+Burkina Faso total recovered cases: 12,937
+Burkina Faso new recovered cases: 
+Burkina Faso active cases: 170
+Burkina Faso serious,critical cases: 
+Burkina Faso total cases per 1M pop: 621
+Burkina Faso death per 1M pop: 7
+Burkina Faso total test: 178,827
+Burkina Faso test per 1M pop: 8,369
+Andorra total cases: 13,060
+Andorra new cases: 
+Andorra total death: 124 
+Andorra new death: 
+Andorra total recovered cases: 12,491
+Andorra new recovered cases: 
+Andorra active cases: 445
+Andorra serious,critical cases: 24
+Andorra total cases per 1M pop: 168,808
+Andorra death per 1M pop: 1,603
+Andorra total test: 193,595
+Andorra test per 1M pop: 2,502,327
+Haiti total cases: 12,958
+Haiti new cases: 
+Haiti total death: 251 
+Haiti new death: 
+Haiti total recovered cases: 11,945
+Haiti new recovered cases: 
+Haiti active cases: 762
+Haiti serious,critical cases: 
+Haiti total cases per 1M pop: 1,125
+Haiti death per 1M pop: 22
+Haiti total test: 60,085
+Haiti test per 1M pop: 5,218
+Togo total cases: 12,787
+Togo new cases: 
+Togo total death: 121 
+Togo new death: 
+Togo total recovered cases: 10,699
+Togo new recovered cases: 
+Togo active cases: 1,967
+Togo serious,critical cases: 
+Togo total cases per 1M pop: 1,516
+Togo death per 1M pop: 14
+Togo total test: 305,687
+Togo test per 1M pop: 36,237
+Guyana total cases: 12,703
+Guyana new cases: 
+Guyana total death: 284 
+Guyana new death: 
+Guyana total recovered cases: 10,786
+Guyana new recovered cases: 
+Guyana active cases: 1,633
+Guyana serious,critical cases: 12
+Guyana total cases per 1M pop: 16,087
+Guyana death per 1M pop: 360
+Guyana total test: 117,390
+Guyana test per 1M pop: 148,661
+Belize total cases: 12,599
+Belize new cases: 
+Belize total death: 321 
+Belize new death: 
+Belize total recovered cases: 12,168
+Belize new recovered cases: 
+Belize active cases: 110
+Belize serious,critical cases: 1
+Belize total cases per 1M pop: 31,225
+Belize death per 1M pop: 796
+Belize total test: 113,675
+Belize test per 1M pop: 281,732
+Curaçao total cases: 12,119
+Curaçao new cases: 
+Curaçao total death: 104 
+Curaçao new death: 
+Curaçao total recovered cases: 10,801
+Curaçao new recovered cases: 
+Curaçao active cases: 1,214
+Curaçao serious,critical cases: 22
+Curaçao total cases per 1M pop: 73,609
+Curaçao death per 1M pop: 632
+Curaçao total test: 91,868
+Curaçao test per 1M pop: 557,993
+Hong Kong total cases: 11,737
+Hong Kong new cases: 
+Hong Kong total death: 209 
+Hong Kong new death: 
+Hong Kong total recovered cases: 11,354
+Hong Kong new recovered cases: 
+Hong Kong active cases: 174
+Hong Kong serious,critical cases: 3
+Hong Kong total cases per 1M pop: 1,555
+Hong Kong death per 1M pop: 28
+Hong Kong total test: 11,193,673
+Hong Kong test per 1M pop: 1,483,288
+Djibouti total cases: 10,802
+Djibouti new cases: 
+Djibouti total death: 136 
+Djibouti new death: 
+Djibouti total recovered cases: 10,324
+Djibouti new recovered cases: 
+Djibouti active cases: 342
+Djibouti serious,critical cases: 
+Djibouti total cases per 1M pop: 10,806
+Djibouti death per 1M pop: 136
+Djibouti total test: 147,300
+Djibouti test per 1M pop: 147,348
+Lesotho total cases: 10,728
+Lesotho new cases: 
+Lesotho total death: 316 
+Lesotho new death: 
+Lesotho total recovered cases: 6,267
+Lesotho new recovered cases: 
+Lesotho active cases: 4,145
+Lesotho serious,critical cases: 
+Lesotho total cases per 1M pop: 4,976
+Lesotho death per 1M pop: 147
+Lesotho total test: 77,329
+Lesotho test per 1M pop: 35,866
+Congo total cases: 10,678
+Congo new cases: 
+Congo total death: 144 
+Congo new death: 
+Congo total recovered cases: 8,208
+Congo new recovered cases: 
+Congo active cases: 2,326
+Congo serious,critical cases: 
+Congo total cases per 1M pop: 1,897
+Congo death per 1M pop: 26
+Congo total test: 92,500
+Congo test per 1M pop: 16,436
+Papua New Guinea total cases: 10,670
+Papua New Guinea new cases: 
+Papua New Guinea total death: 102 
+Papua New Guinea new death: 
+Papua New Guinea total recovered cases: 8,369
+Papua New Guinea new recovered cases: 
+Papua New Guinea active cases: 2,199
+Papua New Guinea serious,critical cases: 
+Papua New Guinea total cases per 1M pop: 1,175
+Papua New Guinea death per 1M pop: 11
+Papua New Guinea total test: 86,619
+Papua New Guinea test per 1M pop: 9,535
+Martinique total cases: 10,611
+Martinique new cases: 
+Martinique total death: 68 
+Martinique new death: 
+Martinique total recovered cases: 98
+Martinique new recovered cases: 
+Martinique active cases: 10,445
+Martinique serious,critical cases: 24
+Martinique total cases per 1M pop: 28,294
+Martinique death per 1M pop: 181
+Martinique total test: 149,454
+Martinique test per 1M pop: 398,515
+Aruba total cases: 10,538
+Aruba new cases: 
+Aruba total death: 98 
+Aruba new death: 
+Aruba total recovered cases: 10,169
+Aruba new recovered cases: 
+Aruba active cases: 271
+Aruba serious,critical cases: 14
+Aruba total cases per 1M pop: 98,361
+Aruba death per 1M pop: 915
+Aruba total test: 145,228
+Aruba test per 1M pop: 1,355,548
+South Sudan total cases: 10,532
+South Sudan new cases: 
+South Sudan total death: 114 
+South Sudan new death: 
+South Sudan total recovered cases: 10,250
+South Sudan new recovered cases: 
+South Sudan active cases: 168
+South Sudan serious,critical cases: 
+South Sudan total cases per 1M pop: 932
+South Sudan death per 1M pop: 10
+South Sudan total test: 147,670
+South Sudan test per 1M pop: 13,068
+Bahamas total cases: 10,050
+Bahamas new cases: 
+Bahamas total death: 196 
+Bahamas new death: 
+Bahamas total recovered cases: 9,262
+Bahamas new recovered cases: 
+Bahamas active cases: 592
+Bahamas serious,critical cases: 4
+Bahamas total cases per 1M pop: 25,359
+Bahamas death per 1M pop: 495
+Bahamas total test: 84,637
+Bahamas test per 1M pop: 213,566
+Suriname total cases: 10,045
+Suriname new cases: 
+Suriname total death: 198 
+Suriname new death: 
+Suriname total recovered cases: 9,088
+Suriname new recovered cases: 
+Suriname active cases: 759
+Suriname serious,critical cases: 18
+Suriname total cases per 1M pop: 16,999
+Suriname death per 1M pop: 335
+Suriname total test: 49,255
+Suriname test per 1M pop: 83,354
+Cambodia total cases: 9,975
+Cambodia new cases: 
+Cambodia total death: 74 
+Cambodia new death: 
+Cambodia total recovered cases: 3,400
+Cambodia new recovered cases: 
+Cambodia active cases: 6,501
+Cambodia serious,critical cases: 
+Cambodia total cases per 1M pop: 590
+Cambodia death per 1M pop: 4
+Cambodia total test: 871,829
+Cambodia test per 1M pop: 51,566
+Trinidad and Tobago total cases: 9,676
+Trinidad and Tobago new cases: 
+Trinidad and Tobago total death: 159 
+Trinidad and Tobago new death: 
+Trinidad and Tobago total recovered cases: 8,173
+Trinidad and Tobago new recovered cases: 
+Trinidad and Tobago active cases: 1,344
+Trinidad and Tobago serious,critical cases: 8
+Trinidad and Tobago total cases per 1M pop: 6,896
+Trinidad and Tobago death per 1M pop: 113
+Trinidad and Tobago total test: 125,168
+Trinidad and Tobago test per 1M pop: 89,203
+Benin total cases: 7,720
+Benin new cases: 
+Benin total death: 97 
+Benin new death: 
+Benin total recovered cases: 7,510
+Benin new recovered cases: 
+Benin active cases: 113
+Benin serious,critical cases: 35
+Benin total cases per 1M pop: 624
+Benin death per 1M pop: 8
+Benin total test: 581,843
+Benin test per 1M pop: 46,998
+Equatorial Guinea total cases: 7,559
+Equatorial Guinea new cases: 
+Equatorial Guinea total death: 107 
+Equatorial Guinea new death: 
+Equatorial Guinea total recovered cases: 7,097
+Equatorial Guinea new recovered cases: 
+Equatorial Guinea active cases: 355
+Equatorial Guinea serious,critical cases: 5
+Equatorial Guinea total cases per 1M pop: 5,249
+Equatorial Guinea death per 1M pop: 74
+Equatorial Guinea total test: 120,652
+Equatorial Guinea test per 1M pop: 83,776
+Nicaragua total cases: 6,835
+Nicaragua new cases: 
+Nicaragua total death: 181 
+Nicaragua new death: 
+Nicaragua total recovered cases: 4,225
+Nicaragua new recovered cases: 
+Nicaragua active cases: 2,429
+Nicaragua serious,critical cases: 
+Nicaragua total cases per 1M pop: 1,022
+Nicaragua death per 1M pop: 27
+Nicaragua total test: 
+Nicaragua test per 1M pop: 
+Iceland total cases: 6,390
+Iceland new cases: 
+Iceland total death: 29 
+Iceland new death: 
+Iceland total recovered cases: 6,227
+Iceland new recovered cases: 
+Iceland active cases: 134
+Iceland serious,critical cases: 4
+Iceland total cases per 1M pop: 18,627
+Iceland death per 1M pop: 85
+Iceland total test: 585,811
+Iceland test per 1M pop: 1,707,665
+CAR total cases: 6,224
+CAR new cases: 
+CAR total death: 85 
+CAR new death: 
+CAR total recovered cases: 5,112
+CAR new recovered cases: 
+CAR active cases: 1,027
+CAR serious,critical cases: 2
+CAR total cases per 1M pop: 1,271
+CAR death per 1M pop: 17
+CAR total test: 40,907
+CAR test per 1M pop: 8,352
+Yemen total cases: 6,137
+Yemen new cases: 
+Yemen total death: 1,187 
+Yemen new death: 
+Yemen total recovered cases: 2,546
+Yemen new recovered cases: 
+Yemen active cases: 2,404
+Yemen serious,critical cases: 23
+Yemen total cases per 1M pop: 202
+Yemen death per 1M pop: 39
+Yemen total test: 22,934
+Yemen test per 1M pop: 755
+Gambia total cases: 5,857
+Gambia new cases: 
+Gambia total death: 173 
+Gambia new death: 
+Gambia total recovered cases: 5,284
+Gambia new recovered cases: 
+Gambia active cases: 400
+Gambia serious,critical cases: 3
+Gambia total cases per 1M pop: 2,370
+Gambia death per 1M pop: 70
+Gambia total test: 62,356
+Gambia test per 1M pop: 25,230
+Seychelles total cases: 5,284
+Seychelles new cases: 
+Seychelles total death: 26 
+Seychelles new death: 
+Seychelles total recovered cases: 4,675
+Seychelles new recovered cases: 
+Seychelles active cases: 583
+Seychelles serious,critical cases: 
+Seychelles total cases per 1M pop: 53,459
+Seychelles death per 1M pop: 263
+Seychelles total test: 21,504
+Seychelles test per 1M pop: 217,557
+Niger total cases: 5,191
+Niger new cases: 
+Niger total death: 191 
+Niger new death: 
+Niger total recovered cases: 4,834
+Niger new recovered cases: 
+Niger active cases: 166
+Niger serious,critical cases: 18
+Niger total cases per 1M pop: 208
+Niger death per 1M pop: 8
+Niger total test: 97,394
+Niger test per 1M pop: 3,909
+San Marino total cases: 5,047
+San Marino new cases: 
+San Marino total death: 89 
+San Marino new death: 
+San Marino total recovered cases: 4,839
+San Marino new recovered cases: 
+San Marino active cases: 119
+San Marino serious,critical cases: 5
+San Marino total cases per 1M pop: 148,489
+San Marino death per 1M pop: 2,618
+San Marino total test: 59,601
+San Marino test per 1M pop: 1,753,538
+Chad total cases: 4,770
+Chad new cases: 
+Chad total death: 169 
+Chad new death: 
+Chad total recovered cases: 4,389
+Chad new recovered cases: 
+Chad active cases: 212
+Chad serious,critical cases: 
+Chad total cases per 1M pop: 284
+Chad death per 1M pop: 10
+Chad total test: 111,158
+Chad test per 1M pop: 6,614
+Saint Lucia total cases: 4,486
+Saint Lucia new cases: 
+Saint Lucia total death: 70 
+Saint Lucia new death: 
+Saint Lucia total recovered cases: 4,300
+Saint Lucia new recovered cases: 
+Saint Lucia active cases: 116
+Saint Lucia serious,critical cases: 
+Saint Lucia total cases per 1M pop: 24,339
+Saint Lucia death per 1M pop: 380
+Saint Lucia total test: 39,554
+Saint Lucia test per 1M pop: 214,605
+Gibraltar total cases: 4,283
+Gibraltar new cases: 
+Gibraltar total death: 94 
+Gibraltar new death: 
+Gibraltar total recovered cases: 4,183
+Gibraltar new recovered cases: 
+Gibraltar active cases: 6
+Gibraltar serious,critical cases: 1
+Gibraltar total cases per 1M pop: 127,156
+Gibraltar death per 1M pop: 2,791
+Gibraltar total test: 230,550
+Gibraltar test per 1M pop: 6,844,699
+Channel Islands total cases: 4,111
+Channel Islands new cases: 
+Channel Islands total death: 86 
+Channel Islands new death: 
+Channel Islands total recovered cases: 3,956
+Channel Islands new recovered cases: 
+Channel Islands active cases: 69
+Channel Islands serious,critical cases: 1
+Channel Islands total cases per 1M pop: 23,469
+Channel Islands death per 1M pop: 491
+Channel Islands total test: 454,413
+Channel Islands test per 1M pop: 2,594,155
+Sierra Leone total cases: 4,044
+Sierra Leone new cases: 
+Sierra Leone total death: 79 
+Sierra Leone new death: 
+Sierra Leone total recovered cases: 2,993
+Sierra Leone new recovered cases: 
+Sierra Leone active cases: 972
+Sierra Leone serious,critical cases: 
+Sierra Leone total cases per 1M pop: 499
+Sierra Leone death per 1M pop: 10
+Sierra Leone total test: 119,155
+Sierra Leone test per 1M pop: 14,695
+Burundi total cases: 3,853
+Burundi new cases: 
+Burundi total death: 6 
+Burundi new death: 
+Burundi total recovered cases: 773
+Burundi new recovered cases: 
+Burundi active cases: 3,074
+Burundi serious,critical cases: 
+Burundi total cases per 1M pop: 316
+Burundi death per 1M pop: 0.5
+Burundi total test: 90,019
+Burundi test per 1M pop: 7,393
+Comoros total cases: 3,829
+Comoros new cases: 
+Comoros total death: 146 
+Comoros new death: 
+Comoros total recovered cases: 3,650
+Comoros new recovered cases: 
+Comoros active cases: 33
+Comoros serious,critical cases: 
+Comoros total cases per 1M pop: 4,328
+Comoros death per 1M pop: 165
+Comoros total test: 
+Comoros test per 1M pop: 
+Barbados total cases: 3,824
+Barbados new cases: 
+Barbados total death: 44 
+Barbados new death: 
+Barbados total recovered cases: 3,726
+Barbados new recovered cases: 
+Barbados active cases: 54
+Barbados serious,critical cases: 
+Barbados total cases per 1M pop: 13,293
+Barbados death per 1M pop: 153
+Barbados total test: 151,482
+Barbados test per 1M pop: 526,597
+Guinea-Bissau total cases: 3,726
+Guinea-Bissau new cases: 
+Guinea-Bissau total death: 67 
+Guinea-Bissau new death: 
+Guinea-Bissau total recovered cases: 3,252
+Guinea-Bissau new recovered cases: 
+Guinea-Bissau active cases: 407
+Guinea-Bissau serious,critical cases: 9
+Guinea-Bissau total cases per 1M pop: 1,858
+Guinea-Bissau death per 1M pop: 33
+Guinea-Bissau total test: 62,798
+Guinea-Bissau test per 1M pop: 31,310
+Eritrea total cases: 3,605
+Eritrea new cases: 
+Eritrea total death: 10 
+Eritrea new death: 
+Eritrea total recovered cases: 3,410
+Eritrea new recovered cases: 
+Eritrea active cases: 185
+Eritrea serious,critical cases: 
+Eritrea total cases per 1M pop: 1,005
+Eritrea death per 1M pop: 3
+Eritrea total test: 23,693
+Eritrea test per 1M pop: 6,606
+Liechtenstein total cases: 2,884
+Liechtenstein new cases: 
+Liechtenstein total death: 57 
+Liechtenstein new death: 
+Liechtenstein total recovered cases: 2,724
+Liechtenstein new recovered cases: 
+Liechtenstein active cases: 103
+Liechtenstein serious,critical cases: 7
+Liechtenstein total cases per 1M pop: 75,464
+Liechtenstein death per 1M pop: 1,491
+Liechtenstein total test: 32,252
+Liechtenstein test per 1M pop: 843,918
+Vietnam total cases: 2,843
+Vietnam new cases: 
+Vietnam total death: 35 
+Vietnam new death: 
+Vietnam total recovered cases: 2,516
+Vietnam new recovered cases: 
+Vietnam active cases: 292
+Vietnam serious,critical cases: 
+Vietnam total cases per 1M pop: 29
+Vietnam death per 1M pop: 0.4
+Vietnam total test: 2,598,753
+Vietnam test per 1M pop: 26,504
+New Zealand total cases: 2,601
+New Zealand new cases: 
+New Zealand total death: 26 
+New Zealand new death: 
+New Zealand total recovered cases: 2,542
+New Zealand new recovered cases: 
+New Zealand active cases: 33
+New Zealand serious,critical cases: 
+New Zealand total cases per 1M pop: 520
+New Zealand death per 1M pop: 5
+New Zealand total test: 2,000,842
+New Zealand test per 1M pop: 400,000
+Monaco total cases: 2,432
+Monaco new cases: 
+Monaco total death: 32 
+Monaco new death: 
+Monaco total recovered cases: 2,330
+Monaco new recovered cases: 
+Monaco active cases: 70
+Monaco serious,critical cases: 1
+Monaco total cases per 1M pop: 61,618
+Monaco death per 1M pop: 811
+Monaco total test: 51,953
+Monaco test per 1M pop: 1,316,299
+Turks and Caicos total cases: 2,376
+Turks and Caicos new cases: 
+Turks and Caicos total death: 17 
+Turks and Caicos new death: 
+Turks and Caicos total recovered cases: 2,326
+Turks and Caicos new recovered cases: 
+Turks and Caicos active cases: 33
+Turks and Caicos serious,critical cases: 2
+Turks and Caicos total cases per 1M pop: 60,701
+Turks and Caicos death per 1M pop: 434
+Turks and Caicos total test: 48,488
+Turks and Caicos test per 1M pop: 1,238,740
+Bermuda total cases: 2,335
+Bermuda new cases: 
+Bermuda total death: 23 
+Bermuda new death: 
+Bermuda total recovered cases: 1,636
+Bermuda new recovered cases: 
+Bermuda active cases: 676
+Bermuda serious,critical cases: 28
+Bermuda total cases per 1M pop: 37,607
+Bermuda death per 1M pop: 370
+Bermuda total test: 233,647
+Bermuda test per 1M pop: 3,763,038
+Sao Tome and Principe total cases: 2,298
+Sao Tome and Principe new cases: 
+Sao Tome and Principe total death: 35 
+Sao Tome and Principe new death: 
+Sao Tome and Principe total recovered cases: 2,234
+Sao Tome and Principe new recovered cases: 
+Sao Tome and Principe active cases: 29
+Sao Tome and Principe serious,critical cases: 
+Sao Tome and Principe total cases per 1M pop: 10,330
+Sao Tome and Principe death per 1M pop: 157
+Sao Tome and Principe total test: 12,597
+Sao Tome and Principe test per 1M pop: 56,626
+Sint Maarten total cases: 2,215
+Sint Maarten new cases: 
+Sint Maarten total death: 27 
+Sint Maarten new death: 
+Sint Maarten total recovered cases: 2,175
+Sint Maarten new recovered cases: 
+Sint Maarten active cases: 13
+Sint Maarten serious,critical cases: 1
+Sint Maarten total cases per 1M pop: 51,188
+Sint Maarten death per 1M pop: 624
+Sint Maarten total test: 26,322
+Sint Maarten test per 1M pop: 608,292
+Liberia total cases: 2,097
+Liberia new cases: 
+Liberia total death: 85 
+Liberia new death: 
+Liberia total recovered cases: 1,940
+Liberia new recovered cases: 
+Liberia active cases: 72
+Liberia serious,critical cases: 2
+Liberia total cases per 1M pop: 407
+Liberia death per 1M pop: 16
+Liberia total test: 93,591
+Liberia test per 1M pop: 18,159
+Timor-Leste total cases: 1,897
+Timor-Leste new cases: 
+Timor-Leste total death: 3 
+Timor-Leste new death: 
+Timor-Leste total recovered cases: 878
+Timor-Leste new recovered cases: 
+Timor-Leste active cases: 1,016
+Timor-Leste serious,critical cases: 
+Timor-Leste total cases per 1M pop: 1,417
+Timor-Leste death per 1M pop: 2
+Timor-Leste total test: 61,902
+Timor-Leste test per 1M pop: 46,236
+St. Vincent Grenadines total cases: 1,830
+St. Vincent Grenadines new cases: 
+St. Vincent Grenadines total death: 10 
+St. Vincent Grenadines new death: 
+St. Vincent Grenadines total recovered cases: 1,711
+St. Vincent Grenadines new recovered cases: 
+St. Vincent Grenadines active cases: 109
+St. Vincent Grenadines serious,critical cases: 2
+St. Vincent Grenadines total cases per 1M pop: 16,453
+St. Vincent Grenadines death per 1M pop: 90
+St. Vincent Grenadines total test: 44,359
+St. Vincent Grenadines test per 1M pop: 398,815
+Saint Martin total cases: 1,720
+Saint Martin new cases: 
+Saint Martin total death: 12 
+Saint Martin new death: 
+Saint Martin total recovered cases: 1,399
+Saint Martin new recovered cases: 
+Saint Martin active cases: 309
+Saint Martin serious,critical cases: 7
+Saint Martin total cases per 1M pop: 43,876
+Saint Martin death per 1M pop: 306
+Saint Martin total test: 27,588
+Saint Martin test per 1M pop: 703,758
+Isle of Man total cases: 1,586
+Isle of Man new cases: 
+Isle of Man total death: 29 
+Isle of Man new death: 
+Isle of Man total recovered cases: 1,545
+Isle of Man new recovered cases: 
+Isle of Man active cases: 12
+Isle of Man serious,critical cases: 1
+Isle of Man total cases per 1M pop: 18,571
+Isle of Man death per 1M pop: 340
+Isle of Man total test: 44,761
+Isle of Man test per 1M pop: 524,133
+Caribbean Netherlands total cases: 1,554
+Caribbean Netherlands new cases: 
+Caribbean Netherlands total death: 15 
+Caribbean Netherlands new death: 
+Caribbean Netherlands total recovered cases: 1,462
+Caribbean Netherlands new recovered cases: 
+Caribbean Netherlands active cases: 77
+Caribbean Netherlands serious,critical cases: 
+Caribbean Netherlands total cases per 1M pop: 58,817
+Caribbean Netherlands death per 1M pop: 568
+Caribbean Netherlands total test: 10,025
+Caribbean Netherlands test per 1M pop: 379,433
+Antigua and Barbuda total cases: 1,227
+Antigua and Barbuda new cases: 
+Antigua and Barbuda total death: 31 
+Antigua and Barbuda new death: 
+Antigua and Barbuda total recovered cases: 1,002
+Antigua and Barbuda new recovered cases: 
+Antigua and Barbuda active cases: 194
+Antigua and Barbuda serious,critical cases: 4
+Antigua and Barbuda total cases per 1M pop: 12,446
+Antigua and Barbuda death per 1M pop: 314
+Antigua and Barbuda total test: 16,493
+Antigua and Barbuda test per 1M pop: 167,290
+Mauritius total cases: 1,206
+Mauritius new cases: 
+Mauritius total death: 16 
+Mauritius new death: 
+Mauritius total recovered cases: 1,040
+Mauritius new recovered cases: 
+Mauritius active cases: 150
+Mauritius serious,critical cases: 
+Mauritius total cases per 1M pop: 947
+Mauritius death per 1M pop: 13
+Mauritius total test: 358,675
+Mauritius test per 1M pop: 281,647
+Taiwan total cases: 1,100
+Taiwan new cases: 
+Taiwan total death: 12 
+Taiwan new death: 
+Taiwan total recovered cases: 1,045
+Taiwan new recovered cases: 
+Taiwan active cases: 43
+Taiwan serious,critical cases: 
+Taiwan total cases per 1M pop: 46
+Taiwan death per 1M pop: 0.5
+Taiwan total test: 513,203
+Taiwan test per 1M pop: 21,516
+Bhutan total cases: 1,022
+Bhutan new cases: 
+Bhutan total death: 1 
+Bhutan new death: 
+Bhutan total recovered cases: 927
+Bhutan new recovered cases: 
+Bhutan active cases: 94
+Bhutan serious,critical cases: 
+Bhutan total cases per 1M pop: 1,313
+Bhutan death per 1M pop: 1
+Bhutan total test: 691,560
+Bhutan test per 1M pop: 888,299
+St. Barth total cases: 958
+St. Barth new cases: 
+St. Barth total death: 1 
+St. Barth new death: 
+St. Barth total recovered cases: 462
+St. Barth new recovered cases: 
+St. Barth active cases: 495
+St. Barth serious,critical cases: 
+St. Barth total cases per 1M pop: 96,748
+St. Barth death per 1M pop: 101
+St. Barth total test: 26,385
+St. Barth test per 1M pop: 2,664,613
+Diamond Princess total cases: 712
+Diamond Princess new cases: 
+Diamond Princess total death: 13 
+Diamond Princess new death: 
+Diamond Princess total recovered cases: 699
+Diamond Princess new recovered cases: 
+Diamond Princess active cases: 0
+Diamond Princess serious,critical cases: 
+Diamond Princess total cases per 1M pop: 
+Diamond Princess death per 1M pop: 
+Diamond Princess total test: 
+Diamond Princess test per 1M pop: 
+Faeroe Islands total cases: 663
+Faeroe Islands new cases: 
+Faeroe Islands total death: 1 
+Faeroe Islands new death: 
+Faeroe Islands total recovered cases: 661
+Faeroe Islands new recovered cases: 
+Faeroe Islands active cases: 1
+Faeroe Islands serious,critical cases: 
+Faeroe Islands total cases per 1M pop: 13,527
+Faeroe Islands death per 1M pop: 20
+Faeroe Islands total test: 250,852
+Faeroe Islands test per 1M pop: 5,117,966
+Cayman Islands total cases: 531
+Cayman Islands new cases: 
+Cayman Islands total death: 2  
+Cayman Islands new death: 
+Cayman Islands total recovered cases: 509
+Cayman Islands new recovered cases: 
+Cayman Islands active cases: 20
+Cayman Islands serious,critical cases: 
+Cayman Islands total cases per 1M pop: 8,003
+Cayman Islands death per 1M pop: 30
+Cayman Islands total test: 87,503
+Cayman Islands test per 1M pop: 1,318,809
+Tanzania total cases: 509
+Tanzania new cases: 
+Tanzania total death: 21 
+Tanzania new death: 
+Tanzania total recovered cases: 183
+Tanzania new recovered cases: 
+Tanzania active cases: 305
+Tanzania serious,critical cases: 7
+Tanzania total cases per 1M pop: 8
+Tanzania death per 1M pop: 0.3
+Tanzania total test: 
+Tanzania test per 1M pop: 
+Wallis and Futuna total cases: 440
+Wallis and Futuna new cases: 
+Wallis and Futuna total death: 5 
+Wallis and Futuna new death: 
+Wallis and Futuna total recovered cases: 44
+Wallis and Futuna new recovered cases: 
+Wallis and Futuna active cases: 391
+Wallis and Futuna serious,critical cases: 4
+Wallis and Futuna total cases per 1M pop: 39,722
+Wallis and Futuna death per 1M pop: 451
+Wallis and Futuna total test: 12,359
+Wallis and Futuna test per 1M pop: 1,115,735
+Laos total cases: 323
+Laos new cases: 
+Laos total death:  
+Laos new death: 
+Laos total recovered cases: 49
+Laos new recovered cases: 
+Laos active cases: 274
+Laos serious,critical cases: 
+Laos total cases per 1M pop: 44
+Laos death per 1M pop: 
+Laos total test: 155,190
+Laos test per 1M pop: 21,082
+Brunei  total cases: 223
+Brunei  new cases: 
+Brunei  total death: 3 
+Brunei  new death: 
+Brunei  total recovered cases: 210
+Brunei  new recovered cases: 
+Brunei  active cases: 10
+Brunei  serious,critical cases: 
+Brunei  total cases per 1M pop: 506
+Brunei  death per 1M pop: 7
+Brunei  total test: 118,338
+Brunei  test per 1M pop: 268,408
+British Virgin Islands total cases: 194
+British Virgin Islands new cases: 
+British Virgin Islands total death: 1 
+British Virgin Islands new death: 
+British Virgin Islands total recovered cases: 183
+British Virgin Islands new recovered cases: 
+British Virgin Islands active cases: 10
+British Virgin Islands serious,critical cases: 
+British Virgin Islands total cases per 1M pop: 6,383
+British Virgin Islands death per 1M pop: 33
+British Virgin Islands total test: 37,158
+British Virgin Islands test per 1M pop: 1,222,504
+Dominica total cases: 173
+Dominica new cases: 
+Dominica total death:  
+Dominica new death: 
+Dominica total recovered cases: 171
+Dominica new recovered cases: 
+Dominica active cases: 2
+Dominica serious,critical cases: 
+Dominica total cases per 1M pop: 2,398
+Dominica death per 1M pop: 
+Dominica total test: 14,532
+Dominica test per 1M pop: 201,464
+Grenada total cases: 159
+Grenada new cases: 
+Grenada total death: 1 
+Grenada new death: 
+Grenada total recovered cases: 155
+Grenada new recovered cases: 
+Grenada active cases: 3
+Grenada serious,critical cases: 
+Grenada total cases per 1M pop: 1,408
+Grenada death per 1M pop: 9
+Grenada total test: 26,331
+Grenada test per 1M pop: 233,125
+New Caledonia total cases: 124
+New Caledonia new cases: 
+New Caledonia total death:  
+New Caledonia new death: 
+New Caledonia total recovered cases: 58
+New Caledonia new recovered cases: 
+New Caledonia active cases: 66
+New Caledonia serious,critical cases: 
+New Caledonia total cases per 1M pop: 431
+New Caledonia death per 1M pop: 
+New Caledonia total test: 30,081
+New Caledonia test per 1M pop: 104,545
+Fiji total cases: 91
+Fiji new cases: 
+Fiji total death: 2 
+Fiji new death: 
+Fiji total recovered cases: 65
+Fiji new recovered cases: 
+Fiji active cases: 24
+Fiji serious,critical cases: 
+Fiji total cases per 1M pop: 101
+Fiji death per 1M pop: 2
+Fiji total test: 47,430
+Fiji test per 1M pop: 52,598
+Falkland Islands total cases: 63
+Falkland Islands new cases: 
+Falkland Islands total death:  
+Falkland Islands new death: 
+Falkland Islands total recovered cases: 62
+Falkland Islands new recovered cases: 
+Falkland Islands active cases: 1
+Falkland Islands serious,critical cases: 
+Falkland Islands total cases per 1M pop: 17,687
+Falkland Islands death per 1M pop: 
+Falkland Islands total test: 7,202
+Falkland Islands test per 1M pop: 2,021,898
+Anguilla total cases: 58
+Anguilla new cases: 
+Anguilla total death:  
+Anguilla new death: 
+Anguilla total recovered cases: 29
+Anguilla new recovered cases: 
+Anguilla active cases: 29
+Anguilla serious,critical cases: 
+Anguilla total cases per 1M pop: 3,838
+Anguilla death per 1M pop: 
+Anguilla total test: 17,376
+Anguilla test per 1M pop: 1,149,815
+Macao total cases: 49
+Macao new cases: 
+Macao total death:  
+Macao new death: 
+Macao total recovered cases: 48
+Macao new recovered cases: 
+Macao active cases: 1
+Macao serious,critical cases: 
+Macao total cases per 1M pop: 75
+Macao death per 1M pop: 
+Macao total test: 4,418
+Macao test per 1M pop: 6,729
+Saint Kitts and Nevis total cases: 44
+Saint Kitts and Nevis new cases: 
+Saint Kitts and Nevis total death:  
+Saint Kitts and Nevis new death: 
+Saint Kitts and Nevis total recovered cases: 44
+Saint Kitts and Nevis new recovered cases: 
+Saint Kitts and Nevis active cases: 0
+Saint Kitts and Nevis serious,critical cases: 
+Saint Kitts and Nevis total cases per 1M pop: 822
+Saint Kitts and Nevis death per 1M pop: 
+Saint Kitts and Nevis total test: 12,381
+Saint Kitts and Nevis test per 1M pop: 231,395
+Greenland total cases: 31
+Greenland new cases: 
+Greenland total death:  
+Greenland new death: 
+Greenland total recovered cases: 31
+Greenland new recovered cases: 
+Greenland active cases: 0
+Greenland serious,critical cases: 
+Greenland total cases per 1M pop: 545
+Greenland death per 1M pop: 
+Greenland total test: 20,669
+Greenland test per 1M pop: 363,571
+Vatican City total cases: 27
+Vatican City new cases: 
+Vatican City total death:  
+Vatican City new death: 
+Vatican City total recovered cases: 15
+Vatican City new recovered cases: 
+Vatican City active cases: 12
+Vatican City serious,critical cases: 
+Vatican City total cases per 1M pop: 33,624
+Vatican City death per 1M pop: 
+Vatican City total test: 
+Vatican City test per 1M pop: 
+Saint Pierre Miquelon total cases: 25
+Saint Pierre Miquelon new cases: 
+Saint Pierre Miquelon total death:  
+Saint Pierre Miquelon new death: 
+Saint Pierre Miquelon total recovered cases: 24
+Saint Pierre Miquelon new recovered cases: 
+Saint Pierre Miquelon active cases: 1
+Saint Pierre Miquelon serious,critical cases: 
+Saint Pierre Miquelon total cases per 1M pop: 4,332
+Saint Pierre Miquelon death per 1M pop: 
+Saint Pierre Miquelon total test: 5,318
+Saint Pierre Miquelon test per 1M pop: 921,504
+Montserrat total cases: 20
+Montserrat new cases: 
+Montserrat total death: 1 
+Montserrat new death: 
+Montserrat total recovered cases: 19
+Montserrat new recovered cases: 
+Montserrat active cases: 0
+Montserrat serious,critical cases: 
+Montserrat total cases per 1M pop: 4,005
+Montserrat death per 1M pop: 200
+Montserrat total test: 1,313
+Montserrat test per 1M pop: 262,915
+Solomon Islands total cases: 20
+Solomon Islands new cases: 
+Solomon Islands total death:  
+Solomon Islands new death: 
+Solomon Islands total recovered cases: 18
+Solomon Islands new recovered cases: 
+Solomon Islands active cases: 2
+Solomon Islands serious,critical cases: 
+Solomon Islands total cases per 1M pop: 29
+Solomon Islands death per 1M pop: 
+Solomon Islands total test: 4,500
+Solomon Islands test per 1M pop: 6,424
+Western Sahara total cases: 10
+Western Sahara new cases: 
+Western Sahara total death: 1 
+Western Sahara new death: 
+Western Sahara total recovered cases: 8
+Western Sahara new recovered cases: 
+Western Sahara active cases: 1
+Western Sahara serious,critical cases: 
+Western Sahara total cases per 1M pop: 16
+Western Sahara death per 1M pop: 2
+Western Sahara total test: 
+Western Sahara test per 1M pop: 
+MS Zaandam total cases: 9
+MS Zaandam new cases: 
+MS Zaandam total death: 2 
+MS Zaandam new death: 
+MS Zaandam total recovered cases: 7
+MS Zaandam new recovered cases: 
+MS Zaandam active cases: 0
+MS Zaandam serious,critical cases: 
+MS Zaandam total cases per 1M pop: 
+MS Zaandam death per 1M pop: 
+MS Zaandam total test: 
+MS Zaandam test per 1M pop: 
+Vanuatu total cases: 4
+Vanuatu new cases: 
+Vanuatu total death: 1 
+Vanuatu new death: 
+Vanuatu total recovered cases: 3
+Vanuatu new recovered cases: 
+Vanuatu active cases: 0
+Vanuatu serious,critical cases: 
+Vanuatu total cases per 1M pop: 13
+Vanuatu death per 1M pop: 3
+Vanuatu total test: 470
+Vanuatu test per 1M pop: 1,502
+Marshall Islands total cases: 4
+Marshall Islands new cases: 
+Marshall Islands total death:  
+Marshall Islands new death: 
+Marshall Islands total recovered cases: 4
+Marshall Islands new recovered cases: 
+Marshall Islands active cases: 0
+Marshall Islands serious,critical cases: 
+Marshall Islands total cases per 1M pop: 67
+Marshall Islands death per 1M pop: 
+Marshall Islands total test: 
+Marshall Islands test per 1M pop: 
+Samoa total cases: 3
+Samoa new cases: 
+Samoa total death:  
+Samoa new death: 
+Samoa total recovered cases: 2
+Samoa new recovered cases: 
+Samoa active cases: 1
+Samoa serious,critical cases: 
+Samoa total cases per 1M pop: 15
+Samoa death per 1M pop: 
+Samoa total test: 
+Samoa test per 1M pop: 
+Saint Helena total cases: 2
+Saint Helena new cases: 
+Saint Helena total death:  
+Saint Helena new death: 
+Saint Helena total recovered cases: 2
+Saint Helena new recovered cases: 
+Saint Helena active cases: 0
+Saint Helena serious,critical cases: 
+Saint Helena total cases per 1M pop: 328
+Saint Helena death per 1M pop: 
+Saint Helena total test: 
+Saint Helena test per 1M pop: 
+Micronesia total cases: 1
+Micronesia new cases: 
+Micronesia total death:  
+Micronesia new death: 
+Micronesia total recovered cases: 1
+Micronesia new recovered cases: 
+Micronesia active cases: 0
+Micronesia serious,critical cases: 
+Micronesia total cases per 1M pop: 9
+Micronesia death per 1M pop: 
+Micronesia total test: 
+Micronesia test per 1M pop: 
+China total cases: 90,599
+China new cases: +11
+China total death: 4,636 
+China new death: 
+China total recovered cases: 85,652
+China new recovered cases: +8
+China active cases: 311
+China serious,critical cases: 4
+China total cases per 1M pop: 63
+China death per 1M pop: 3
+China total test: 160,000,000
+China test per 1M pop: 111,163
+ 

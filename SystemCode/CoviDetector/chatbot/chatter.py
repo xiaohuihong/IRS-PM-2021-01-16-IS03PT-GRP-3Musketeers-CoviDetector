@@ -2,7 +2,7 @@ import chatterbot.corpus
 from chatterbot import comparisons
 from chatterbot import response_selection
 from chatterbot import ChatBot
-from chatterbot.comparisons import LevenshteinDistance
+from chatterbot.comparisons import JaccardSimilarity
 from chatterbot.response_selection import get_first_response
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from chatterbot.trainers import ListTrainer
@@ -24,7 +24,7 @@ def faq_chatbot_initialize(chatbot_name, threshold=0.9, excel_path='data/COVID_F
         logic_adapters=[
             {
                 "import_path": "chatterbot.logic.BestMatch",
-                "statement_comparison_function": LevenshteinDistance,
+                "statement_comparison_function": JaccardSimilarity,
                 "response_selection_method": get_first_response,
                 "maximum_similarity_threshold": threshold
             }

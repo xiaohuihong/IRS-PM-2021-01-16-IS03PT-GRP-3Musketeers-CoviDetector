@@ -13,8 +13,8 @@ Create and activate a python 3 virtual environment, and `pip install`
 from the requirements file:
 
 ```bash
-(py36) $ conda create --name py36 python=3.6
-(py36) $ conda activate py36
+(base) $ conda create --name py36 python=3.6
+(base) $ conda activate py36
 (py36) $ pip install -r requirements.txt
 (py36) $ python -m spacy download en
 ```

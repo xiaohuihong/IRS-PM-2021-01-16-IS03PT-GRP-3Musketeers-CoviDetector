@@ -55,15 +55,32 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 
 > open terminal in iss-vm
 
-> $ git clone https://github.com/xiaohuihong/IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector.git
+```bash
+(base) $ git clone https://github.com/xiaohuihong/IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector.git
+(base) $ conda create --name py36 python=3.6
+(base) $ conda activate py36
+(py36) $ pip install -r requirements.txt
+(py36) $ python -m spacy download en
+(py36) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+(py36) $ python app.py
+```
 
-> $ source activate iss-env-py2
+> Run migrations:
 
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+```bash
+(py36) $ python manage.py makemigrations
+(py36) $ python manage.py migrate
+```
 
-> (iss-env-py2) $ python app.py
+> You should now be able to run the project with Django's built-in
+`runserver` command on port 8000 (or any available port).
 
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
+```bash
+(py36) $ python manage.py runserver 8000
+```
+
+>You should then be able to use the app in your browser at
+`localhost:8000`.  Fill in form fields with test data and click button until the form is completed.
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in python 2 only.

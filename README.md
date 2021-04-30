@@ -2,13 +2,13 @@
 ## SECTION 1 : PROJECT TITLE
 ## Intelligent Covid Detection and Chatbot Platform
 
-<img src="SystemCode/CoviDetector/recommender/static/images/project_logo.png"
+<img src="SystemCode/CoviDetector/recommender/static/images/project_logo.PNG"
      style="float: left; margin-right: 0px;" />
 
-<img src="SystemCode/CoviDetector/recommender/static/images/project_main_page.png"
+<img src="SystemCode/CoviDetector/recommender/static/images/project_main_page.PNG"
      style="float: left; margin-right: 0px;" />
 
-<img src="SystemCode/CoviDetector/recommender/static/images/project_chatbot_page.png"
+<img src="SystemCode/CoviDetector/recommender/static/images/project_chatbot_page.PNG"
      style="float: left; margin-right: 0px;" />
 
 ---

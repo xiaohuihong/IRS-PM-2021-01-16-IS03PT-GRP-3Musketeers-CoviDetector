@@ -27,9 +27,9 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 
 | Official Full Name  | NRIC  | <div style="width:400px">Work Items</div> | Email |
 | :------------ |:---------------:| :----------------------------------| :---------------|
-| Hong Xiaohui | S9476943D | Team Lead, Architecture Design, Predictive Model Development, Chatbot Development, Web Service Implementation, Project Report Generation | xiaohui.hong@ncs.com.sg |
-| Anita Koo Shi Qi | S9444480B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| anita.koo@ncs.com.sg |
-| Sanjeven Ramakrishnan | S9139938E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sanjeven.ramakrishnan@ncs.com.sg |
+| Hong Xiaohui | S****943D | Team Lead, Architecture Design, Predictive Model Development, Chatbot Development, Web Service Implementation, Project Report Generation | xiaohui.hong@ncs.com.sg |
+| Anita Koo Shi Qi | S****480B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| anita.koo@ncs.com.sg |
+| Sanjeven Ramakrishnan | S****938E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sanjeven.ramakrishnan@ncs.com.sg |
 
 ---
 

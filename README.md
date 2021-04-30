@@ -36,7 +36,8 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 ### [ 1 ] Video clip to promote our system
-[![Intelligent Covid Detection and Chatbot Platform](https://img.youtube.com/vi/H4C6DA7kmQo/maxresdefault.jpg)]("https://youtu.be/H4C6DA7kmQo")
+[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion](https://img.youtube.com/vi/H4C6DA7kmQo/maxresdefault.jpg)](https://youtu.be/H4C6DA7kmQo "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
+
 
 ### [ 2 ] Video clip to describle high level system design
 

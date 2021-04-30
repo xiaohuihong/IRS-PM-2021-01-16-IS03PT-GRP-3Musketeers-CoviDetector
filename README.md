@@ -1,59 +1,44 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
-
----
-
-### <<<<<<<<<<<<<<<<<<<< Start of Template >>>>>>>>>>>>>>>>>>>>
-
----
-
+﻿
 ## SECTION 1 : PROJECT TITLE
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+## Intelligent Covid Detection and Chatbot Platform
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="SystemCode/CoviDetector/recommender/static/images/project_logo.png"
+     style="float: left; margin-right: 0px;" />
+
+<img src="SystemCode/CoviDetector/recommender/static/images/project_main_page.png"
+     style="float: left; margin-right: 0px;" />
+
+<img src="SystemCode/CoviDetector/recommender/static/images/project_chatbot_page.png"
      style="float: left; margin-right: 0px;" />
 
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Singapore ranks amongst countries with the highest population density in the world. In a bid to have firm control over long term urban planning, the Singapore government came up with the “Built to Order” (abbreviated BTO) initiative back in 2001. These are new Housing Development Board (HDB) flats tightly controlled by their eligibility and quantity released every year. In more recent years, the modern BTO scheme in Singapore requires a waiting period of 3-4 years, and is generally targeted at young Singaporean couples looking to purchase their first property and set up a family. Nationality and income ceilings are some of the broad filters that determine one’s eligibility for the highly sought after projects. 
+With the recent low number of community cases of covid-19, mass gathering is allowed. However, participants will have to take an antigen rapid test for Covid-19 and obtain a negative result before admission. Hence, the event planner must ensure the participants safety/health condition before allowing participants to enter the event venue. This project proposes a solution to this problem by using a machine learning model to determine the likelihood of participants having Covid-19. In addition, it includes a chatbot to allow the participants to know current information about Covid-19 and the event itself. 
 
+Recent news reported that the Singapore government allowed mass gathering but with a requirement. Before a participant can enter the venue, the event organizer has to ensure that he/she is not contacted with Covid-19. To implement this, the event organizer will have to check with each participant individually on their health status before letting them in. As social distancing enforcement is a must, a long queue will be expected. Meaning, more manpower is needed to maintain the queue. If a shorter time can be implemented to handle these, the queue will be shorted thus lesser manpower is needed.
 
-Our team, comprising of 6 young Singaporeans, all hope to be property owners one day. Many of our peers opt for BTO flats due to their affordability, existence of financial aid from the government, as well as their resale value. However, there often exists a knowledge gap for these young couples during the decision making process and they end up making potentially regretful decisions. We would like to bridge this knowledge gap, and have hence chosen to base our project on creating a recommender system for BTO flats, utilizing the data from recent launches in Tampines, Eunos, Sengkang and Punggol. 
+We propose that this can be handled with a web application (mobile-friendly) that has a survey for the participants to answer to get their health status. Participants with a mobile device would be able to answer the necessary questions before reaching the front of the queue. The result of the survey will let the queue maintainer either guide the participant to the swab test area or let the participant into the venue. Moreover, it also includes a chatbot that allows the user to know (real-time) information about Covid-19 and the event itself. This may keep the participants occupied while waiting for their turn to enter the venue. The solution may be tailored to suit different types of events.
 
-
-Using the techniques imparted to us in lectures, our group first set out to build a sizeable knowledge base via conducting an interview and administering a survey. While building the system, we utilized tools such as Java to scrape real time data from HDB website and transform it into a database, CLIPS to synthesize the rule based reasoning process, and Python to integrate it into an easy to use UI for the everyday user. To add icing on the cake, we even hosted the system on a website so that the everyday user can access it through the click of a link.
-
-
-Our team had an amazing time working on this project, and hope to share our insights with everyone. Despite a focus on BTO flats, we would recommend it for everybody interested in understanding property market trends for residence or investment purposes. There truly are a wide array of factors behind the decision to invest in a property, and we only wish there was more time to work on the scope and scale of the project. 
 
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| Desmond Chua | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| Official Full Name  | NRIC  | <div style="width:400px">Work Items</div> | Email |
+| :------------ |:---------------:| :----------------------------------| :---------------|
+| Hong Xiaohui | S9476943D | Team Lead, Architecture Design, Predictive Model Development, Chatbot Development, Web Service Implementation, Project Report Generation | xiaohui.hong@ncs.com.sg |
+| Anita Koo Shi Qi | S9444480B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| anita.koo@ncs.com.sg |
+| Sanjeven Ramakrishnan | S9139938E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sanjeven.ramakrishnan@ncs.com.sg |
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+### [ 1 ] Video clip to promote our system
+[![Intelligent Covid Detection and Chatbot Platform](https://img.youtube.com/vi/H4C6DA7kmQo/maxresdefault.jpg)]("https://youtu.be/H4C6DA7kmQo")
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+### [ 2 ] Video clip to describle high level system design
 
 ---
 
@@ -69,7 +54,7 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 > open terminal in iss-vm
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> $ git clone https://github.com/xiaohuihong/IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector.git
 
 > $ source activate iss-env-py2
 
@@ -91,42 +76,32 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `Refer to project report at Github Folder: ProjectReport`
 
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Market Research
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
+**Sections for Project Report / Paper:**
+- Abstract
+- Business Case
+- System Model
+- System Development & Implementation
+- Challenge and Conclusion
 - Appendix of report: Project Proposal
 - Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
 - Appendix of report: Installation and User Guide
-- Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-- Appendix of report: List of Abbreviations (if applicable)
-- Appendix of report: References (if applicable)
+- Appendix of report: Individual project report per project member
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
+### corona_tested_20201115.csv
+* Dataset of Covid-19 symptons and basic user info
 * Insights derived, which were subsequently used in our system
 
+### COVID_FAQ.xlsx
+* FAQ list scraped from websites
+* Insights derived, which were subsequently used in our system
+
+### COVID_KNOWLEDGE.txt
+* news or articles about Covid-19 scraped from websites
+* Insights derived, which were subsequently used in our system
 ---
 
-### <<<<<<<<<<<<<<<<<<<< End of Template >>>>>>>>>>>>>>>>>>>>
-
----
-
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
-
-**Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
-
-[![alt text](https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/sam-website.tmb-.png "Let's check Sam' profile page")](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
-
-**zhan.gu@nus.edu.sg**

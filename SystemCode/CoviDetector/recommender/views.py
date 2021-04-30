@@ -153,8 +153,6 @@ class ChatBotApiView(View):
     """
     logging.basicConfig(level=logging.INFO)
 
-    print("===================================test==================================")
-
     cwd = os.getcwd()
     data_path = os.path.join(cwd + '\\..\\..\\Miscellaneous\\')
     excel_name = 'COVID_FAQ.xlsx'

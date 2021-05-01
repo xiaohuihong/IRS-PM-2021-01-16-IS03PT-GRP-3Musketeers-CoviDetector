@@ -55,13 +55,17 @@ class MOH(Event):
 		return centres
 
 	def get_latest_article(self):
-		results = self.soup.find_all("tbody")
-		r = results[14].find("a")
+		result = self.soup.find(id='ContentPlaceHolder_contentPlaceholder_C009_Col00')
+		r = result.find("a")
 		latest = r.get('href')
+		subresult = r.text + "[" + latest + "]"
 		lsoup = self.getExternalSoup(latest)
 		lweb = lsoup.find("div", class_="left-content")
-		latest_content = lweb.find_all("div", class_="row")
-		return latest_content[1].text
+		if lweb is not None:
+			latest_content = lweb.find_all("div", class_="row")
+			return latest_content[1].text
+		else:
+			return subresult
 		
 	def get_data(self, row_count):
 		d_level = self.get_dorscon_level()

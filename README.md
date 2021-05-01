@@ -40,7 +40,7 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 
 
 ### [ 2 ] Video clip to describle high level system design
-[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector system design](https://img.youtube.com/vi/0HFkz8CoqLs/maxresdefault.jpg)](https://youtu.be/0HFkz8CoqLs "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
+[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector system design](https://i.ytimg.com/vi/0HFkz8CoqLs/hqdefault.jpg)](https://youtu.be/0HFkz8CoqLs "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
 
 ---
 

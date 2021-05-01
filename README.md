@@ -36,10 +36,11 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 ### [ 1 ] Video clip to promote our system
-[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion](https://img.youtube.com/vi/H4C6DA7kmQo/maxresdefault.jpg)](https://youtu.be/H4C6DA7kmQo "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
+[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion](https://i.ytimg.com/vi/H4C6DA7kmQo/hqdefault.jpg)](https://youtu.be/H4C6DA7kmQo "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
 
 
 ### [ 2 ] Video clip to describle high level system design
+[![IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector system design](https://i.ytimg.com/vi/0HFkz8CoqLs/hqdefault.jpg)](https://youtu.be/0HFkz8CoqLs "IRS PM 2021 05 01 IS03PT GRP 3Musketeers CoviDetector promotion")
 
 ---
 
@@ -59,10 +60,9 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 (base) $ git clone https://github.com/xiaohuihong/IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector.git
 (base) $ conda create --name py36 python=3.6
 (base) $ conda activate py36
+(py36) $ cd IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector/SystemCode/CoviDetector
 (py36) $ pip install -r requirements.txt
 (py36) $ python -m spacy download en
-(py36) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-(py36) $ python app.py
 ```
 
 > Run migrations:

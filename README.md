@@ -29,7 +29,7 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 | :------------ |:---------------:| :----------------------------------| :---------------|
 | Hong Xiaohui | S****943D | Team Lead, Architecture Design, Predictive Model Development, Chatbot Development, Web Service Implementation, Project Report Generation | xiaohui.hong@ncs.com.sg |
 | Anita Koo Shi Qi | S****480B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| anita.koo@ncs.com.sg |
-| Sanjeven Ramakrishnan | S****938E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| sanjeven.ramakrishnan@ncs.com.sg |
+| Sanjeven Ramakrishnan | S****938E | User interface design, Questionnaire and Chatbot integration, OS and browser compatibility testing, Installation and user guide report generation | sanjeven.ramakrishnan@ncs.com.sg |
 
 ---
 

@@ -19,7 +19,7 @@ from the requirements file:
 (py36) $ python -m spacy download en
 ```
 
-This should install Django (the only requirement).
+This should install Django and other packages.
 
 ## Configuration
 

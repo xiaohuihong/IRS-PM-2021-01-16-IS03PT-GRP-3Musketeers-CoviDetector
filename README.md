@@ -57,7 +57,7 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 > open terminal in iss-vm
 
 ```bash
-(base) $ git clone https://github.com/xiaohuihong/IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector.git
+(base) $ git clone https://github.com/xiaohuihong/IRS-PM-2021-01-16-IS03PT-GRP-3Musketeers-CoviDetector.git
 (base) $ conda create --name py36 python=3.6
 (base) $ conda activate py36
 (py36) $ cd IRS-PM-2021-05-01-IS03PT-GRP-3Musketeers-CoviDetector/SystemCode/CoviDetector

@@ -48,7 +48,7 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
-### [ 1 ] To run the system using iss-vm
+### To run the system using iss-vm
 
 > download pre-built virtual machine from http://bit.ly/iss-vm
 
@@ -82,12 +82,6 @@ We propose that this can be handled with a web application (mobile-friendly) tha
 >You should then be able to use the app in your browser at
 `localhost:8000`.  Fill in form fields with test data and click button until the form is completed.
 
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER

@@ -154,7 +154,7 @@ class ChatBotApiView(View):
     logging.basicConfig(level=logging.INFO)
 
     cwd = os.getcwd()
-    data_path = os.path.join(cwd + '\\..\\..\\Miscellaneous\\')
+    data_path = os.path.join(cwd + '/Miscellaneous/')
     excel_name = 'COVID_FAQ.xlsx'
     worksheet_name = 'FAQ'
     threshold = 0.6
